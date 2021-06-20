@@ -44,5 +44,5 @@ Picture5
 
 - When a month was selected, the other three charts would correspond automatically and present the detailed information.
 
-## Summary.
+## Summary
 In this project, I created a dashboard to present the sales information. Data was broken down by time, agent, and region. It helped us to discover additional details in the data.
