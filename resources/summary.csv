@@ -1,0 +1,3001 @@
+product_id,month,sales_no,return,Province
+228037,June,CA006,1,Manitoba
+591755,Dec,CA012,1,Ontario
+570924,Sept,CA013,0,British Columbia
+891624,Oct,CA009,0,Ontario
+591263,Dec,CA016,1,Ontario
+936489,June,CA010,1,Alberta
+471403,Jan,CA012,1,Ontario
+173349,Jan,CA006,1,Manitoba
+217583,Feb,CA016,1,Ontario
+121440,Aug,CA001,0,Ontario
+329520,July,CA001,0,Ontario
+513825,Oct,CA002,1,Alberta
+536973,Mar,CA013,0,British Columbia
+393372,May,CA008,1,Ontario
+267302,June,CA014,1,Manitoba
+613300,Mar,CA013,0,British Columbia
+121758,May,CA007,0,New Brunswick
+276485,Dec,CA010,1,Alberta
+791090,Nov,CA003,0,Nova Scotia
+675956,Mar,CA005,0,British Columbia
+557611,May,CA015,0,New Brunswick
+501660,Aug,CA006,1,Manitoba
+906378,Aug,CA003,0,Nova Scotia
+465212,Oct,CA005,0,British Columbia
+288317,Feb,CA012,1,Ontario
+346322,Aug,CA013,0,British Columbia
+717028,Jan,CA011,0,Nova Scotia
+394103,July,CA013,0,British Columbia
+845431,Oct,CA014,1,Manitoba
+512649,Oct,CA015,0,New Brunswick
+248209,Aug,CA003,0,Nova Scotia
+126103,July,CA005,0,British Columbia
+799870,Oct,CA008,1,Ontario
+544256,Feb,CA008,1,Ontario
+396022,Jan,CA010,1,Alberta
+991021,Feb,CA002,1,Alberta
+745097,Sept,CA008,1,Ontario
+199335,Sept,CA015,0,New Brunswick
+923615,Apr,CA001,0,Ontario
+217565,Nov,CA007,0,New Brunswick
+890038,Oct,CA014,1,Manitoba
+469977,Sept,CA010,1,Alberta
+823457,Aug,CA010,1,Alberta
+228896,Apr,CA008,1,Ontario
+423900,July,CA016,1,Ontario
+294769,June,CA014,1,Manitoba
+457640,Feb,CA007,0,New Brunswick
+158072,Oct,CA010,1,Alberta
+532755,Apr,CA002,1,Alberta
+755791,May,CA001,0,Ontario
+792202,Sept,CA013,0,British Columbia
+606312,Feb,CA002,1,Alberta
+968894,Dec,CA009,0,Ontario
+305895,Nov,CA009,0,Ontario
+998435,May,CA014,1,Manitoba
+199782,Jan,CA004,1,Ontario
+640565,Apr,CA016,1,Ontario
+816337,Oct,CA011,0,Nova Scotia
+986073,Mar,CA010,1,Alberta
+276643,Jan,CA009,0,Ontario
+438712,May,CA015,0,New Brunswick
+469137,Oct,CA008,1,Ontario
+230091,Mar,CA004,1,Ontario
+578234,Aug,CA007,0,New Brunswick
+757204,Aug,CA006,1,Manitoba
+895984,Nov,CA002,1,Alberta
+719817,Oct,CA010,1,Alberta
+128114,Sept,CA004,1,Ontario
+493231,July,CA005,0,British Columbia
+610148,Oct,CA009,0,Ontario
+767673,Apr,CA002,1,Alberta
+832527,Aug,CA012,1,Ontario
+484738,Aug,CA013,0,British Columbia
+962087,May,CA011,0,Nova Scotia
+953274,Dec,CA005,0,British Columbia
+623929,June,CA001,0,Ontario
+699656,Oct,CA014,1,Manitoba
+101046,Apr,CA004,1,Ontario
+736681,July,CA010,1,Alberta
+774791,Sept,CA003,0,Nova Scotia
+314142,Jan,CA016,1,Ontario
+863159,Mar,CA001,0,Ontario
+554013,Nov,CA005,0,British Columbia
+726020,Aug,CA010,1,Alberta
+706363,Aug,CA016,1,Ontario
+442949,Oct,CA003,0,Nova Scotia
+645081,Aug,CA008,1,Ontario
+635123,Apr,CA008,1,Ontario
+586566,Nov,CA011,0,Nova Scotia
+969000,Jan,CA010,1,Alberta
+306112,Sept,CA009,0,Ontario
+812098,Aug,CA007,0,New Brunswick
+538026,Aug,CA010,1,Alberta
+607159,Feb,CA004,1,Ontario
+789807,Feb,CA008,1,Ontario
+700815,Apr,CA015,0,New Brunswick
+714169,Jan,CA008,1,Ontario
+824935,Sept,CA014,1,Manitoba
+100243,July,CA005,0,British Columbia
+934122,May,CA012,1,Ontario
+320462,June,CA006,1,Manitoba
+350784,July,CA010,1,Alberta
+269688,Mar,CA004,1,Ontario
+105271,Dec,CA007,0,New Brunswick
+375825,June,CA009,0,Ontario
+699885,Dec,CA001,0,Ontario
+601507,Aug,CA003,0,Nova Scotia
+414240,Sept,CA011,0,Nova Scotia
+738968,Dec,CA008,1,Ontario
+547741,Dec,CA016,1,Ontario
+133229,May,CA016,1,Ontario
+871846,May,CA008,1,Ontario
+415861,Aug,CA010,1,Alberta
+818338,Aug,CA008,1,Ontario
+163052,May,CA004,1,Ontario
+169595,Oct,CA013,0,British Columbia
+655157,Jan,CA011,0,Nova Scotia
+395627,Mar,CA015,0,New Brunswick
+450471,Jan,CA015,0,New Brunswick
+171757,Nov,CA001,0,Ontario
+201064,Aug,CA009,0,Ontario
+599020,Feb,CA008,1,Ontario
+297675,Aug,CA008,1,Ontario
+178356,Oct,CA002,1,Alberta
+713918,Sept,CA002,1,Alberta
+506375,Nov,CA014,1,Manitoba
+404903,May,CA004,1,Ontario
+955853,Jan,CA001,0,Ontario
+178788,Feb,CA009,0,Ontario
+860377,Oct,CA014,1,Manitoba
+570768,Sept,CA014,1,Manitoba
+992412,Mar,CA007,0,New Brunswick
+442226,Apr,CA005,0,British Columbia
+706304,Feb,CA006,1,Manitoba
+821165,Mar,CA007,0,New Brunswick
+504490,Aug,CA003,0,Nova Scotia
+122807,Mar,CA013,0,British Columbia
+181788,Nov,CA012,1,Ontario
+688625,July,CA006,1,Manitoba
+290343,Jan,CA012,1,Ontario
+870200,Oct,CA008,1,Ontario
+191850,Mar,CA014,1,Manitoba
+312444,July,CA009,0,Ontario
+754996,July,CA012,1,Ontario
+471104,Mar,CA013,0,British Columbia
+676652,Aug,CA012,1,Ontario
+541537,Aug,CA005,0,British Columbia
+583934,Jan,CA015,0,New Brunswick
+935736,July,CA005,0,British Columbia
+578546,June,CA008,1,Ontario
+367123,Feb,CA008,1,Ontario
+588289,Nov,CA014,1,Manitoba
+364322,May,CA005,0,British Columbia
+470396,July,CA010,1,Alberta
+213255,Jan,CA001,0,Ontario
+540162,July,CA013,0,British Columbia
+980906,June,CA003,0,Nova Scotia
+468310,Feb,CA001,0,Ontario
+187904,Mar,CA014,1,Manitoba
+901257,Feb,CA011,0,Nova Scotia
+863730,June,CA008,1,Ontario
+807030,May,CA013,0,British Columbia
+354279,Nov,CA002,1,Alberta
+575111,Jan,CA008,1,Ontario
+929616,Aug,CA010,1,Alberta
+490710,Sept,CA009,0,Ontario
+893615,Oct,CA011,0,Nova Scotia
+246309,June,CA013,0,British Columbia
+965681,Aug,CA005,0,British Columbia
+520010,Jan,CA001,0,Ontario
+188694,Oct,CA013,0,British Columbia
+970320,Apr,CA002,1,Alberta
+958597,Oct,CA015,0,New Brunswick
+349741,Feb,CA013,0,British Columbia
+495249,May,CA010,1,Alberta
+880914,May,CA009,0,Ontario
+477441,Dec,CA003,0,Nova Scotia
+908629,July,CA004,1,Ontario
+396788,Sept,CA002,1,Alberta
+561834,Dec,CA003,0,Nova Scotia
+942848,Sept,CA013,0,British Columbia
+968535,Dec,CA013,0,British Columbia
+742616,Oct,CA008,1,Ontario
+337973,Mar,CA003,0,Nova Scotia
+136071,Aug,CA011,0,Nova Scotia
+156416,June,CA007,0,New Brunswick
+370291,June,CA001,0,Ontario
+842425,May,CA010,1,Alberta
+482449,June,CA003,0,Nova Scotia
+364333,Sept,CA007,0,New Brunswick
+275316,June,CA007,0,New Brunswick
+959764,Sept,CA003,0,Nova Scotia
+453067,Dec,CA008,1,Ontario
+693542,Feb,CA008,1,Ontario
+494957,Feb,CA001,0,Ontario
+919896,Sept,CA007,0,New Brunswick
+410159,Aug,CA016,1,Ontario
+842936,Jan,CA006,1,Manitoba
+525097,Nov,CA002,1,Alberta
+370786,Apr,CA011,0,Nova Scotia
+114535,May,CA005,0,British Columbia
+783829,Mar,CA007,0,New Brunswick
+549861,Jan,CA001,0,Ontario
+413764,Dec,CA007,0,New Brunswick
+477701,Apr,CA006,1,Manitoba
+905624,June,CA014,1,Manitoba
+291784,Feb,CA002,1,Alberta
+603885,Mar,CA003,0,Nova Scotia
+462715,May,CA002,1,Alberta
+807249,Apr,CA006,1,Manitoba
+716817,Jan,CA005,0,British Columbia
+154575,July,CA011,0,Nova Scotia
+396397,Jan,CA001,0,Ontario
+476232,Aug,CA008,1,Ontario
+695406,Mar,CA014,1,Manitoba
+743728,Nov,CA009,0,Ontario
+662410,Sept,CA010,1,Alberta
+115917,Apr,CA006,1,Manitoba
+383075,Jan,CA008,1,Ontario
+586722,Sept,CA001,0,Ontario
+967278,May,CA010,1,Alberta
+819232,Mar,CA004,1,Ontario
+497725,Oct,CA010,1,Alberta
+128735,Jan,CA002,1,Alberta
+510443,Apr,CA015,0,New Brunswick
+998595,Sept,CA014,1,Manitoba
+375381,Feb,CA005,0,British Columbia
+557181,Nov,CA005,0,British Columbia
+766242,May,CA012,1,Ontario
+810100,Dec,CA007,0,New Brunswick
+752883,Apr,CA014,1,Manitoba
+170704,Apr,CA009,0,Ontario
+804310,Dec,CA012,1,Ontario
+320448,Nov,CA016,1,Ontario
+436125,Dec,CA009,0,Ontario
+477500,July,CA012,1,Ontario
+786135,Aug,CA010,1,Alberta
+478143,Apr,CA003,0,Nova Scotia
+543420,June,CA008,1,Ontario
+178046,Apr,CA006,1,Manitoba
+123882,Mar,CA006,1,Manitoba
+867112,May,CA005,0,British Columbia
+608013,May,CA006,1,Manitoba
+744707,Jan,CA009,0,Ontario
+410304,Apr,CA006,1,Manitoba
+630004,Apr,CA009,0,Ontario
+606829,Sept,CA014,1,Manitoba
+522450,Apr,CA012,1,Ontario
+575727,June,CA002,1,Alberta
+729929,July,CA002,1,Alberta
+215520,Aug,CA016,1,Ontario
+550156,June,CA014,1,Manitoba
+662387,Feb,CA009,0,Ontario
+945848,Aug,CA015,0,New Brunswick
+830225,Jan,CA014,1,Manitoba
+822590,Nov,CA008,1,Ontario
+651822,Nov,CA001,0,Ontario
+261267,Mar,CA013,0,British Columbia
+845235,Sept,CA011,0,Nova Scotia
+602426,Mar,CA014,1,Manitoba
+358134,Feb,CA004,1,Ontario
+272423,May,CA005,0,British Columbia
+311683,Jan,CA003,0,Nova Scotia
+740431,May,CA015,0,New Brunswick
+536668,Feb,CA015,0,New Brunswick
+513427,Aug,CA001,0,Ontario
+604098,Apr,CA014,1,Manitoba
+153348,Feb,CA016,1,Ontario
+455044,July,CA012,1,Ontario
+388544,July,CA004,1,Ontario
+630323,Oct,CA006,1,Manitoba
+954467,Nov,CA014,1,Manitoba
+328120,July,CA002,1,Alberta
+406899,Oct,CA003,0,Nova Scotia
+192389,July,CA005,0,British Columbia
+950086,Jan,CA004,1,Ontario
+670031,Jan,CA001,0,Ontario
+172935,Mar,CA007,0,New Brunswick
+768549,Oct,CA001,0,Ontario
+650991,July,CA014,1,Manitoba
+623839,Jan,CA013,0,British Columbia
+116241,July,CA008,1,Ontario
+977655,Aug,CA003,0,Nova Scotia
+478666,Jan,CA016,1,Ontario
+489834,Apr,CA013,0,British Columbia
+981346,Oct,CA015,0,New Brunswick
+767352,Jan,CA011,0,Nova Scotia
+257410,Apr,CA009,0,Ontario
+161086,Nov,CA014,1,Manitoba
+817124,Dec,CA004,1,Ontario
+418272,May,CA001,0,Ontario
+890004,Aug,CA009,0,Ontario
+286574,June,CA005,0,British Columbia
+215879,Apr,CA014,1,Manitoba
+904003,Sept,CA003,0,Nova Scotia
+841841,Sept,CA016,1,Ontario
+449852,Jan,CA010,1,Alberta
+474566,July,CA001,0,Ontario
+438601,Aug,CA013,0,British Columbia
+270442,Oct,CA004,1,Ontario
+977894,June,CA009,0,Ontario
+400697,May,CA002,1,Alberta
+512902,Oct,CA011,0,Nova Scotia
+659344,Nov,CA005,0,British Columbia
+178896,June,CA013,0,British Columbia
+362834,Mar,CA016,1,Ontario
+499294,June,CA015,0,New Brunswick
+388044,July,CA012,1,Ontario
+944393,Dec,CA015,0,New Brunswick
+421718,July,CA004,1,Ontario
+549792,Sept,CA004,1,Ontario
+343030,Dec,CA012,1,Ontario
+822423,Nov,CA011,0,Nova Scotia
+151984,Aug,CA012,1,Ontario
+295859,Aug,CA007,0,New Brunswick
+114089,Aug,CA008,1,Ontario
+104720,Dec,CA004,1,Ontario
+586108,Mar,CA006,1,Manitoba
+334547,July,CA016,1,Ontario
+285199,Dec,CA015,0,New Brunswick
+970523,Jan,CA013,0,British Columbia
+235492,June,CA004,1,Ontario
+982071,Mar,CA003,0,Nova Scotia
+533855,Feb,CA005,0,British Columbia
+627893,Dec,CA005,0,British Columbia
+474958,Nov,CA001,0,Ontario
+300060,Sept,CA004,1,Ontario
+252707,June,CA004,1,Ontario
+327768,Oct,CA009,0,Ontario
+279408,May,CA004,1,Ontario
+439886,Oct,CA006,1,Manitoba
+279151,Dec,CA015,0,New Brunswick
+745703,Dec,CA007,0,New Brunswick
+749742,Feb,CA016,1,Ontario
+153965,Mar,CA008,1,Ontario
+706351,Jan,CA006,1,Manitoba
+439353,Nov,CA016,1,Ontario
+916949,May,CA016,1,Ontario
+996724,Aug,CA002,1,Alberta
+448665,Jan,CA008,1,Ontario
+594522,July,CA001,0,Ontario
+434805,Mar,CA011,0,Nova Scotia
+747794,May,CA011,0,Nova Scotia
+974222,Apr,CA003,0,Nova Scotia
+368189,July,CA009,0,Ontario
+855244,Aug,CA003,0,Nova Scotia
+517942,July,CA015,0,New Brunswick
+770171,Apr,CA002,1,Alberta
+238572,Jan,CA005,0,British Columbia
+530456,July,CA001,0,Ontario
+426971,May,CA013,0,British Columbia
+648762,Aug,CA005,0,British Columbia
+872044,July,CA015,0,New Brunswick
+647783,Mar,CA002,1,Alberta
+465271,Nov,CA008,1,Ontario
+567367,Oct,CA004,1,Ontario
+747805,Nov,CA002,1,Alberta
+398027,June,CA013,0,British Columbia
+400492,Oct,CA007,0,New Brunswick
+301586,Oct,CA007,0,New Brunswick
+174534,Oct,CA010,1,Alberta
+273659,Sept,CA011,0,Nova Scotia
+411920,July,CA014,1,Manitoba
+682469,May,CA007,0,New Brunswick
+962625,Mar,CA010,1,Alberta
+642891,Nov,CA007,0,New Brunswick
+785466,Dec,CA001,0,Ontario
+833880,Oct,CA001,0,Ontario
+815717,May,CA003,0,Nova Scotia
+238825,Jan,CA015,0,New Brunswick
+728020,Jan,CA013,0,British Columbia
+690425,Apr,CA010,1,Alberta
+923835,Nov,CA007,0,New Brunswick
+806603,May,CA001,0,Ontario
+948897,Oct,CA007,0,New Brunswick
+143346,Apr,CA008,1,Ontario
+813310,Oct,CA001,0,Ontario
+497280,Feb,CA004,1,Ontario
+271860,Mar,CA010,1,Alberta
+829630,June,CA001,0,Ontario
+246279,May,CA013,0,British Columbia
+133856,Jan,CA004,1,Ontario
+969526,Dec,CA016,1,Ontario
+610562,Sept,CA011,0,Nova Scotia
+746964,Mar,CA012,1,Ontario
+802083,Apr,CA005,0,British Columbia
+255718,Oct,CA008,1,Ontario
+977196,Oct,CA015,0,New Brunswick
+517063,May,CA016,1,Ontario
+184198,May,CA006,1,Manitoba
+801523,Sept,CA015,0,New Brunswick
+419215,Mar,CA013,0,British Columbia
+363344,Feb,CA004,1,Ontario
+182237,July,CA009,0,Ontario
+495718,Apr,CA009,0,Ontario
+676676,Sept,CA001,0,Ontario
+754615,Oct,CA015,0,New Brunswick
+934966,Aug,CA007,0,New Brunswick
+664858,Jan,CA016,1,Ontario
+454780,June,CA008,1,Ontario
+808857,Mar,CA013,0,British Columbia
+238591,Mar,CA015,0,New Brunswick
+354517,Dec,CA014,1,Manitoba
+791081,Nov,CA016,1,Ontario
+385353,Nov,CA010,1,Alberta
+781401,Nov,CA006,1,Manitoba
+942093,Sept,CA005,0,British Columbia
+840086,June,CA010,1,Alberta
+521597,Nov,CA011,0,Nova Scotia
+475540,Jan,CA006,1,Manitoba
+276490,June,CA003,0,Nova Scotia
+951851,Oct,CA015,0,New Brunswick
+116489,Sept,CA014,1,Manitoba
+218820,Nov,CA013,0,British Columbia
+746256,Dec,CA006,1,Manitoba
+588592,July,CA007,0,New Brunswick
+105278,July,CA012,1,Ontario
+721683,Jan,CA007,0,New Brunswick
+778100,May,CA013,0,British Columbia
+468569,Aug,CA013,0,British Columbia
+944579,Dec,CA009,0,Ontario
+226377,Apr,CA012,1,Ontario
+595953,Dec,CA011,0,Nova Scotia
+375202,Jan,CA013,0,British Columbia
+747381,Dec,CA008,1,Ontario
+276749,Feb,CA008,1,Ontario
+186864,July,CA008,1,Ontario
+119227,Nov,CA014,1,Manitoba
+729064,Jan,CA012,1,Ontario
+729276,July,CA013,0,British Columbia
+245026,Feb,CA003,0,Nova Scotia
+855427,July,CA007,0,New Brunswick
+860205,May,CA012,1,Ontario
+801865,Mar,CA001,0,Ontario
+193476,Dec,CA014,1,Manitoba
+172420,June,CA006,1,Manitoba
+785224,May,CA003,0,Nova Scotia
+498354,July,CA002,1,Alberta
+956289,Mar,CA012,1,Ontario
+500294,Oct,CA011,0,Nova Scotia
+354271,Mar,CA009,0,Ontario
+692371,Aug,CA006,1,Manitoba
+205832,June,CA010,1,Alberta
+835449,Jan,CA005,0,British Columbia
+285319,Aug,CA010,1,Alberta
+677648,Dec,CA012,1,Ontario
+495775,Dec,CA012,1,Ontario
+917509,Nov,CA002,1,Alberta
+946338,Sept,CA003,0,Nova Scotia
+197378,Sept,CA016,1,Ontario
+816494,Sept,CA015,0,New Brunswick
+582746,Jan,CA001,0,Ontario
+847178,Aug,CA011,0,Nova Scotia
+104890,Mar,CA005,0,British Columbia
+391048,Jan,CA015,0,New Brunswick
+500277,Aug,CA008,1,Ontario
+871642,Feb,CA001,0,Ontario
+407071,Nov,CA007,0,New Brunswick
+556080,Feb,CA003,0,Nova Scotia
+827004,Nov,CA005,0,British Columbia
+857285,Oct,CA004,1,Ontario
+385673,Dec,CA007,0,New Brunswick
+605069,June,CA013,0,British Columbia
+458888,Feb,CA008,1,Ontario
+904619,June,CA007,0,New Brunswick
+463014,Oct,CA004,1,Ontario
+700160,Nov,CA016,1,Ontario
+234798,July,CA001,0,Ontario
+595959,May,CA014,1,Manitoba
+348011,Oct,CA007,0,New Brunswick
+243267,Sept,CA014,1,Manitoba
+570719,Aug,CA005,0,British Columbia
+624667,Nov,CA008,1,Ontario
+168128,June,CA007,0,New Brunswick
+910606,Feb,CA003,0,Nova Scotia
+552443,Nov,CA011,0,Nova Scotia
+827729,Sept,CA013,0,British Columbia
+794138,Jan,CA010,1,Alberta
+925472,June,CA011,0,Nova Scotia
+644406,Apr,CA016,1,Ontario
+187137,Oct,CA006,1,Manitoba
+783462,Jan,CA010,1,Alberta
+339268,May,CA010,1,Alberta
+315835,Sept,CA010,1,Alberta
+455813,July,CA009,0,Ontario
+978182,Dec,CA014,1,Manitoba
+666770,Mar,CA007,0,New Brunswick
+235902,May,CA014,1,Manitoba
+144409,Apr,CA005,0,British Columbia
+690642,Nov,CA013,0,British Columbia
+674254,Mar,CA003,0,Nova Scotia
+116903,Jan,CA011,0,Nova Scotia
+785525,Jan,CA012,1,Ontario
+358320,May,CA010,1,Alberta
+504199,Nov,CA005,0,British Columbia
+724285,Nov,CA001,0,Ontario
+597085,Mar,CA001,0,Ontario
+255643,Dec,CA015,0,New Brunswick
+846490,June,CA004,1,Ontario
+748974,Jan,CA011,0,Nova Scotia
+491336,Jan,CA005,0,British Columbia
+526928,Dec,CA010,1,Alberta
+983870,Dec,CA004,1,Ontario
+638007,Apr,CA010,1,Alberta
+876642,Sept,CA002,1,Alberta
+854396,June,CA003,0,Nova Scotia
+780640,Apr,CA006,1,Manitoba
+627079,Feb,CA014,1,Manitoba
+455468,May,CA005,0,British Columbia
+399665,Aug,CA014,1,Manitoba
+457114,Apr,CA015,0,New Brunswick
+403521,Mar,CA001,0,Ontario
+964778,Mar,CA012,1,Ontario
+336572,Nov,CA009,0,Ontario
+900745,Mar,CA013,0,British Columbia
+522859,July,CA003,0,Nova Scotia
+771569,July,CA004,1,Ontario
+160037,Nov,CA014,1,Manitoba
+614937,Jan,CA010,1,Alberta
+296650,Nov,CA010,1,Alberta
+191734,Feb,CA005,0,British Columbia
+290265,June,CA005,0,British Columbia
+264152,Nov,CA009,0,Ontario
+860398,July,CA003,0,Nova Scotia
+321015,Dec,CA002,1,Alberta
+763546,June,CA007,0,New Brunswick
+493589,Sept,CA016,1,Ontario
+330097,Sept,CA004,1,Ontario
+411178,June,CA015,0,New Brunswick
+238952,June,CA009,0,Ontario
+400848,Aug,CA010,1,Alberta
+630933,June,CA008,1,Ontario
+901555,Oct,CA001,0,Ontario
+498732,Feb,CA016,1,Ontario
+321517,Dec,CA006,1,Manitoba
+569776,Apr,CA003,0,Nova Scotia
+269220,Dec,CA003,0,Nova Scotia
+431736,Oct,CA013,0,British Columbia
+567830,Apr,CA015,0,New Brunswick
+627282,Apr,CA012,1,Ontario
+201188,Apr,CA011,0,Nova Scotia
+666915,July,CA011,0,Nova Scotia
+789850,Feb,CA011,0,Nova Scotia
+685228,Apr,CA009,0,Ontario
+487916,Jan,CA006,1,Manitoba
+487424,June,CA011,0,Nova Scotia
+459741,Jan,CA016,1,Ontario
+158767,June,CA001,0,Ontario
+186522,Mar,CA013,0,British Columbia
+378346,Aug,CA006,1,Manitoba
+463410,July,CA010,1,Alberta
+559934,May,CA014,1,Manitoba
+161371,Nov,CA009,0,Ontario
+218405,Jan,CA011,0,Nova Scotia
+370480,Dec,CA012,1,Ontario
+790015,Mar,CA007,0,New Brunswick
+638208,May,CA007,0,New Brunswick
+977500,Sept,CA001,0,Ontario
+377931,Aug,CA015,0,New Brunswick
+693644,July,CA005,0,British Columbia
+700351,Aug,CA008,1,Ontario
+588035,Aug,CA012,1,Ontario
+207820,Nov,CA004,1,Ontario
+717240,Dec,CA016,1,Ontario
+606814,Nov,CA012,1,Ontario
+613871,Feb,CA001,0,Ontario
+402925,Aug,CA015,0,New Brunswick
+574657,Dec,CA012,1,Ontario
+257700,Aug,CA002,1,Alberta
+757959,Apr,CA007,0,New Brunswick
+610076,Sept,CA011,0,Nova Scotia
+525027,Apr,CA001,0,Ontario
+426818,Jan,CA007,0,New Brunswick
+579274,July,CA002,1,Alberta
+579054,Apr,CA007,0,New Brunswick
+799090,Jan,CA005,0,British Columbia
+574982,July,CA003,0,Nova Scotia
+955078,June,CA012,1,Ontario
+878618,Dec,CA013,0,British Columbia
+735002,Oct,CA006,1,Manitoba
+672926,July,CA005,0,British Columbia
+333221,May,CA007,0,New Brunswick
+335002,July,CA003,0,Nova Scotia
+733051,July,CA015,0,New Brunswick
+762005,Mar,CA010,1,Alberta
+452552,Mar,CA003,0,Nova Scotia
+268133,May,CA015,0,New Brunswick
+819365,Nov,CA008,1,Ontario
+859815,Feb,CA006,1,Manitoba
+248942,Mar,CA001,0,Ontario
+715273,Apr,CA008,1,Ontario
+454843,Oct,CA014,1,Manitoba
+588115,Dec,CA012,1,Ontario
+967405,Apr,CA014,1,Manitoba
+535115,July,CA012,1,Ontario
+231246,Aug,CA011,0,Nova Scotia
+248489,Jan,CA015,0,New Brunswick
+129507,Apr,CA009,0,Ontario
+334435,Dec,CA015,0,New Brunswick
+956886,Dec,CA009,0,Ontario
+888415,Apr,CA009,0,Ontario
+895875,July,CA001,0,Ontario
+896240,Sept,CA015,0,New Brunswick
+431036,Nov,CA008,1,Ontario
+338245,July,CA003,0,Nova Scotia
+662597,Dec,CA013,0,British Columbia
+657458,June,CA001,0,Ontario
+860142,Feb,CA008,1,Ontario
+171015,Apr,CA013,0,British Columbia
+747622,Mar,CA002,1,Alberta
+840316,July,CA011,0,Nova Scotia
+187092,Apr,CA002,1,Alberta
+352298,Nov,CA011,0,Nova Scotia
+847310,July,CA013,0,British Columbia
+714463,Aug,CA010,1,Alberta
+533885,Mar,CA012,1,Ontario
+510258,Sept,CA006,1,Manitoba
+662680,Jan,CA002,1,Alberta
+236231,Feb,CA006,1,Manitoba
+176572,Dec,CA010,1,Alberta
+642262,Sept,CA011,0,Nova Scotia
+880317,July,CA007,0,New Brunswick
+478039,Jan,CA005,0,British Columbia
+375815,Jan,CA010,1,Alberta
+278522,Feb,CA009,0,Ontario
+357947,Mar,CA015,0,New Brunswick
+318044,Aug,CA008,1,Ontario
+454154,Aug,CA011,0,Nova Scotia
+203820,May,CA006,1,Manitoba
+209713,May,CA002,1,Alberta
+788199,Nov,CA011,0,Nova Scotia
+535803,Jan,CA009,0,Ontario
+141863,Feb,CA001,0,Ontario
+562204,Jan,CA006,1,Manitoba
+247923,Sept,CA004,1,Ontario
+554840,June,CA013,0,British Columbia
+124115,July,CA010,1,Alberta
+832064,Mar,CA014,1,Manitoba
+309612,June,CA001,0,Ontario
+848646,May,CA005,0,British Columbia
+309075,Apr,CA009,0,Ontario
+209086,Jan,CA007,0,New Brunswick
+840502,July,CA012,1,Ontario
+908411,Mar,CA003,0,Nova Scotia
+251647,Feb,CA005,0,British Columbia
+291849,Dec,CA004,1,Ontario
+297997,Dec,CA011,0,Nova Scotia
+643766,Oct,CA013,0,British Columbia
+187014,May,CA003,0,Nova Scotia
+688178,May,CA013,0,British Columbia
+177842,Jan,CA001,0,Ontario
+362196,Oct,CA001,0,Ontario
+833306,Sept,CA014,1,Manitoba
+488401,Aug,CA016,1,Ontario
+797058,Aug,CA005,0,British Columbia
+773235,July,CA011,0,Nova Scotia
+387097,Feb,CA011,0,Nova Scotia
+540029,Nov,CA013,0,British Columbia
+766347,Aug,CA003,0,Nova Scotia
+260691,Mar,CA015,0,New Brunswick
+874486,May,CA012,1,Ontario
+278959,June,CA006,1,Manitoba
+983911,July,CA001,0,Ontario
+503120,Aug,CA016,1,Ontario
+124988,Mar,CA001,0,Ontario
+514491,Jan,CA013,0,British Columbia
+781771,June,CA012,1,Ontario
+552755,Mar,CA013,0,British Columbia
+777455,Aug,CA016,1,Ontario
+174566,Oct,CA012,1,Ontario
+268280,Oct,CA004,1,Ontario
+494234,Aug,CA013,0,British Columbia
+576683,Feb,CA009,0,Ontario
+404577,Feb,CA015,0,New Brunswick
+852221,May,CA016,1,Ontario
+919471,July,CA006,1,Manitoba
+752979,June,CA004,1,Ontario
+919170,Dec,CA014,1,Manitoba
+667126,July,CA002,1,Alberta
+484557,May,CA005,0,British Columbia
+775263,Feb,CA008,1,Ontario
+668982,Feb,CA013,0,British Columbia
+199437,June,CA004,1,Ontario
+216327,Feb,CA003,0,Nova Scotia
+521330,Mar,CA003,0,Nova Scotia
+685896,July,CA011,0,Nova Scotia
+825676,Dec,CA015,0,New Brunswick
+737201,Mar,CA003,0,Nova Scotia
+365067,Apr,CA007,0,New Brunswick
+348408,Apr,CA007,0,New Brunswick
+707462,Mar,CA011,0,Nova Scotia
+251424,Apr,CA001,0,Ontario
+382864,Jan,CA011,0,Nova Scotia
+234497,Nov,CA002,1,Alberta
+314098,Jan,CA015,0,New Brunswick
+583191,Feb,CA006,1,Manitoba
+109159,June,CA011,0,Nova Scotia
+176276,Jan,CA007,0,New Brunswick
+194884,June,CA012,1,Ontario
+475834,Sept,CA006,1,Manitoba
+420416,Dec,CA009,0,Ontario
+476752,Sept,CA009,0,Ontario
+248824,Jan,CA006,1,Manitoba
+360597,Jan,CA006,1,Manitoba
+862902,Jan,CA008,1,Ontario
+939458,Oct,CA015,0,New Brunswick
+975358,Sept,CA006,1,Manitoba
+642916,June,CA010,1,Alberta
+422499,Oct,CA015,0,New Brunswick
+841040,Dec,CA002,1,Alberta
+582422,Apr,CA012,1,Ontario
+152577,May,CA004,1,Ontario
+996651,Jan,CA014,1,Manitoba
+682283,Oct,CA015,0,New Brunswick
+735257,Sept,CA012,1,Ontario
+293972,July,CA015,0,New Brunswick
+244204,Apr,CA010,1,Alberta
+645348,Nov,CA004,1,Ontario
+421709,Oct,CA004,1,Ontario
+893792,Oct,CA004,1,Ontario
+309448,Jan,CA007,0,New Brunswick
+973223,Sept,CA002,1,Alberta
+723367,Feb,CA016,1,Ontario
+940993,July,CA004,1,Ontario
+638170,July,CA001,0,Ontario
+927655,Feb,CA013,0,British Columbia
+419650,Apr,CA006,1,Manitoba
+757540,Aug,CA001,0,Ontario
+508965,Dec,CA006,1,Manitoba
+552541,Apr,CA014,1,Manitoba
+648982,Mar,CA003,0,Nova Scotia
+573959,Apr,CA015,0,New Brunswick
+832338,Jan,CA008,1,Ontario
+327916,Nov,CA007,0,New Brunswick
+143437,Mar,CA013,0,British Columbia
+479134,Sept,CA005,0,British Columbia
+818176,Nov,CA011,0,Nova Scotia
+194101,Mar,CA001,0,Ontario
+493330,Oct,CA015,0,New Brunswick
+652317,Jan,CA016,1,Ontario
+227068,Feb,CA012,1,Ontario
+394215,Apr,CA014,1,Manitoba
+534908,Oct,CA003,0,Nova Scotia
+665913,May,CA005,0,British Columbia
+316553,Sept,CA014,1,Manitoba
+710551,Sept,CA009,0,Ontario
+165377,Sept,CA008,1,Ontario
+400033,Mar,CA013,0,British Columbia
+665517,Sept,CA007,0,New Brunswick
+775956,July,CA014,1,Manitoba
+879302,May,CA008,1,Ontario
+978805,Oct,CA008,1,Ontario
+305211,Jan,CA011,0,Nova Scotia
+648518,Nov,CA012,1,Ontario
+998004,June,CA013,0,British Columbia
+553793,Dec,CA011,0,Nova Scotia
+894369,Nov,CA013,0,British Columbia
+977566,June,CA002,1,Alberta
+576575,July,CA008,1,Ontario
+722837,Feb,CA012,1,Ontario
+587537,Aug,CA008,1,Ontario
+156946,July,CA013,0,British Columbia
+106172,June,CA004,1,Ontario
+507243,Dec,CA009,0,Ontario
+714002,Aug,CA004,1,Ontario
+487939,Feb,CA001,0,Ontario
+948927,Oct,CA013,0,British Columbia
+410451,Aug,CA015,0,New Brunswick
+574947,June,CA007,0,New Brunswick
+374250,July,CA004,1,Ontario
+674368,Aug,CA001,0,Ontario
+689793,July,CA015,0,New Brunswick
+180645,Nov,CA007,0,New Brunswick
+655941,Aug,CA006,1,Manitoba
+273422,June,CA012,1,Ontario
+480744,July,CA016,1,Ontario
+954380,Sept,CA010,1,Alberta
+259512,Aug,CA007,0,New Brunswick
+532272,May,CA013,0,British Columbia
+985117,Mar,CA005,0,British Columbia
+836096,Nov,CA014,1,Manitoba
+159616,May,CA007,0,New Brunswick
+523209,Jan,CA007,0,New Brunswick
+651064,Jan,CA003,0,Nova Scotia
+153525,Apr,CA014,1,Manitoba
+536217,Dec,CA014,1,Manitoba
+612923,June,CA003,0,Nova Scotia
+782275,Oct,CA005,0,British Columbia
+467934,Jan,CA011,0,Nova Scotia
+483044,Apr,CA016,1,Ontario
+811998,July,CA002,1,Alberta
+964125,June,CA003,0,Nova Scotia
+904384,Feb,CA004,1,Ontario
+751513,Nov,CA010,1,Alberta
+451277,Dec,CA014,1,Manitoba
+919032,Dec,CA014,1,Manitoba
+743430,Feb,CA012,1,Ontario
+749587,Sept,CA004,1,Ontario
+905802,May,CA007,0,New Brunswick
+718553,Aug,CA016,1,Ontario
+437561,Jan,CA008,1,Ontario
+676288,Feb,CA001,0,Ontario
+366600,Aug,CA013,0,British Columbia
+966337,Feb,CA004,1,Ontario
+590998,Dec,CA012,1,Ontario
+629030,June,CA014,1,Manitoba
+816993,May,CA012,1,Ontario
+443347,Nov,CA004,1,Ontario
+281791,June,CA016,1,Ontario
+680735,July,CA007,0,New Brunswick
+875555,Nov,CA009,0,Ontario
+348220,Mar,CA011,0,Nova Scotia
+904495,June,CA007,0,New Brunswick
+405949,Nov,CA012,1,Ontario
+810210,Apr,CA006,1,Manitoba
+511375,Oct,CA002,1,Alberta
+689885,Apr,CA014,1,Manitoba
+808307,Oct,CA016,1,Ontario
+205568,June,CA004,1,Ontario
+863450,Feb,CA003,0,Nova Scotia
+727432,Oct,CA007,0,New Brunswick
+490650,Dec,CA014,1,Manitoba
+981570,Aug,CA004,1,Ontario
+412094,Aug,CA016,1,Ontario
+450393,Jan,CA011,0,Nova Scotia
+110336,Sept,CA007,0,New Brunswick
+959057,July,CA014,1,Manitoba
+627868,Feb,CA008,1,Ontario
+206835,Mar,CA003,0,Nova Scotia
+532937,Jan,CA009,0,Ontario
+638900,Nov,CA013,0,British Columbia
+493720,May,CA001,0,Ontario
+893640,May,CA002,1,Alberta
+273944,July,CA012,1,Ontario
+255134,Feb,CA009,0,Ontario
+602894,Jan,CA007,0,New Brunswick
+621650,Oct,CA001,0,Ontario
+443032,May,CA001,0,Ontario
+996502,Oct,CA002,1,Alberta
+163620,Apr,CA003,0,Nova Scotia
+997289,Jan,CA008,1,Ontario
+819996,Nov,CA008,1,Ontario
+241696,June,CA005,0,British Columbia
+981882,Feb,CA015,0,New Brunswick
+219189,Feb,CA005,0,British Columbia
+789659,Oct,CA011,0,Nova Scotia
+963306,July,CA001,0,Ontario
+152373,Nov,CA002,1,Alberta
+913473,Jan,CA001,0,Ontario
+382487,Mar,CA009,0,Ontario
+408390,Sept,CA006,1,Manitoba
+939461,Nov,CA007,0,New Brunswick
+168711,Apr,CA003,0,Nova Scotia
+620737,Aug,CA015,0,New Brunswick
+621311,Mar,CA006,1,Manitoba
+101449,June,CA005,0,British Columbia
+868199,July,CA004,1,Ontario
+575205,Jan,CA001,0,Ontario
+442039,May,CA007,0,New Brunswick
+441718,Mar,CA003,0,Nova Scotia
+331530,Apr,CA002,1,Alberta
+647879,Feb,CA012,1,Ontario
+272063,Jan,CA012,1,Ontario
+283589,June,CA010,1,Alberta
+872134,Aug,CA005,0,British Columbia
+417624,Jan,CA013,0,British Columbia
+421436,Mar,CA005,0,British Columbia
+785476,Mar,CA014,1,Manitoba
+901346,Nov,CA001,0,Ontario
+783786,Jan,CA010,1,Alberta
+724084,Dec,CA009,0,Ontario
+836128,Oct,CA008,1,Ontario
+893374,June,CA008,1,Ontario
+132643,Feb,CA007,0,New Brunswick
+677020,Feb,CA002,1,Alberta
+782860,July,CA011,0,Nova Scotia
+149851,Apr,CA008,1,Ontario
+939221,Mar,CA003,0,Nova Scotia
+993049,Feb,CA005,0,British Columbia
+739728,Feb,CA006,1,Manitoba
+957974,Mar,CA014,1,Manitoba
+777829,Aug,CA007,0,New Brunswick
+405969,June,CA008,1,Ontario
+534634,Mar,CA003,0,Nova Scotia
+899595,Dec,CA013,0,British Columbia
+407886,Oct,CA014,1,Manitoba
+413499,May,CA015,0,New Brunswick
+174401,Aug,CA001,0,Ontario
+919016,Apr,CA006,1,Manitoba
+206052,Dec,CA003,0,Nova Scotia
+135367,June,CA014,1,Manitoba
+162447,Jan,CA013,0,British Columbia
+667137,Mar,CA008,1,Ontario
+664103,Feb,CA013,0,British Columbia
+188609,May,CA016,1,Ontario
+705118,Oct,CA010,1,Alberta
+489902,May,CA010,1,Alberta
+181997,July,CA008,1,Ontario
+155211,Oct,CA002,1,Alberta
+303837,Apr,CA002,1,Alberta
+319989,Dec,CA014,1,Manitoba
+235716,Nov,CA005,0,British Columbia
+706988,Sept,CA007,0,New Brunswick
+425114,Sept,CA006,1,Manitoba
+888917,Aug,CA012,1,Ontario
+945686,Feb,CA007,0,New Brunswick
+904122,Dec,CA005,0,British Columbia
+585349,Sept,CA002,1,Alberta
+651674,Nov,CA002,1,Alberta
+546335,Aug,CA015,0,New Brunswick
+575619,Sept,CA016,1,Ontario
+431276,Oct,CA006,1,Manitoba
+626057,Mar,CA002,1,Alberta
+489987,Mar,CA003,0,Nova Scotia
+656313,June,CA007,0,New Brunswick
+223621,Nov,CA013,0,British Columbia
+732300,June,CA012,1,Ontario
+729417,Apr,CA003,0,Nova Scotia
+457995,June,CA004,1,Ontario
+213207,Oct,CA016,1,Ontario
+652384,Nov,CA004,1,Ontario
+277807,Mar,CA003,0,Nova Scotia
+136316,Aug,CA004,1,Ontario
+111560,May,CA001,0,Ontario
+183260,Feb,CA011,0,Nova Scotia
+226534,July,CA001,0,Ontario
+464977,Oct,CA002,1,Alberta
+182098,Sept,CA006,1,Manitoba
+137140,Feb,CA001,0,Ontario
+531412,Sept,CA006,1,Manitoba
+510049,Feb,CA015,0,New Brunswick
+386416,July,CA009,0,Ontario
+105940,Mar,CA012,1,Ontario
+119545,July,CA013,0,British Columbia
+635315,Feb,CA009,0,Ontario
+171646,Sept,CA001,0,Ontario
+189664,Apr,CA014,1,Manitoba
+660170,Aug,CA001,0,Ontario
+269775,Jan,CA001,0,Ontario
+996917,Aug,CA010,1,Alberta
+403201,Jan,CA009,0,Ontario
+610041,Jan,CA006,1,Manitoba
+268998,Nov,CA010,1,Alberta
+650906,Aug,CA012,1,Ontario
+848428,Apr,CA015,0,New Brunswick
+423440,Oct,CA004,1,Ontario
+755378,Dec,CA015,0,New Brunswick
+691821,June,CA005,0,British Columbia
+557677,Dec,CA015,0,New Brunswick
+886904,Nov,CA014,1,Manitoba
+274572,Mar,CA001,0,Ontario
+926842,June,CA010,1,Alberta
+220275,Feb,CA014,1,Manitoba
+691143,Dec,CA009,0,Ontario
+463647,Dec,CA007,0,New Brunswick
+417711,Mar,CA004,1,Ontario
+451525,Nov,CA011,0,Nova Scotia
+584838,Dec,CA010,1,Alberta
+857728,June,CA010,1,Alberta
+329540,Nov,CA001,0,Ontario
+366594,Apr,CA009,0,Ontario
+902943,Dec,CA002,1,Alberta
+767635,Apr,CA007,0,New Brunswick
+432014,July,CA007,0,New Brunswick
+228769,Feb,CA002,1,Alberta
+500030,Dec,CA004,1,Ontario
+591493,Sept,CA016,1,Ontario
+577191,Feb,CA008,1,Ontario
+660240,Sept,CA012,1,Ontario
+933202,July,CA014,1,Manitoba
+779930,May,CA016,1,Ontario
+922059,July,CA004,1,Ontario
+524873,Oct,CA013,0,British Columbia
+217445,June,CA016,1,Ontario
+678561,May,CA014,1,Manitoba
+595990,Dec,CA003,0,Nova Scotia
+227155,Nov,CA016,1,Ontario
+505074,Aug,CA014,1,Manitoba
+127313,Dec,CA004,1,Ontario
+588785,Mar,CA001,0,Ontario
+323186,Jan,CA011,0,Nova Scotia
+274815,Dec,CA003,0,Nova Scotia
+605287,Mar,CA009,0,Ontario
+112693,Jan,CA011,0,Nova Scotia
+555186,June,CA003,0,Nova Scotia
+448846,Oct,CA015,0,New Brunswick
+651084,Nov,CA010,1,Alberta
+182651,May,CA001,0,Ontario
+963369,Feb,CA002,1,Alberta
+401444,May,CA013,0,British Columbia
+532205,June,CA015,0,New Brunswick
+936095,Mar,CA004,1,Ontario
+165343,Oct,CA010,1,Alberta
+306999,Apr,CA005,0,British Columbia
+798463,Dec,CA009,0,Ontario
+489875,Feb,CA009,0,Ontario
+418651,June,CA009,0,Ontario
+479621,Nov,CA015,0,New Brunswick
+114973,Feb,CA015,0,New Brunswick
+981728,Feb,CA003,0,Nova Scotia
+103487,Aug,CA009,0,Ontario
+240929,Feb,CA007,0,New Brunswick
+891785,Mar,CA005,0,British Columbia
+547556,July,CA010,1,Alberta
+656086,Jan,CA013,0,British Columbia
+341689,Aug,CA001,0,Ontario
+171123,Aug,CA011,0,Nova Scotia
+895035,May,CA006,1,Manitoba
+445850,Apr,CA012,1,Ontario
+284888,Dec,CA011,0,Nova Scotia
+114940,Mar,CA006,1,Manitoba
+747944,Aug,CA007,0,New Brunswick
+675341,Sept,CA002,1,Alberta
+990188,June,CA008,1,Ontario
+605006,Mar,CA007,0,New Brunswick
+155217,May,CA006,1,Manitoba
+987819,Oct,CA012,1,Ontario
+555816,Mar,CA008,1,Ontario
+517610,Mar,CA002,1,Alberta
+855863,Apr,CA016,1,Ontario
+670712,June,CA010,1,Alberta
+597881,Oct,CA008,1,Ontario
+845938,July,CA006,1,Manitoba
+738162,May,CA007,0,New Brunswick
+420517,Dec,CA008,1,Ontario
+977423,Dec,CA007,0,New Brunswick
+689482,Oct,CA011,0,Nova Scotia
+635342,Jan,CA008,1,Ontario
+113845,Mar,CA016,1,Ontario
+599829,Sept,CA006,1,Manitoba
+681193,Apr,CA007,0,New Brunswick
+930349,Nov,CA009,0,Ontario
+117042,Aug,CA008,1,Ontario
+518967,Apr,CA013,0,British Columbia
+747647,Oct,CA005,0,British Columbia
+655572,Dec,CA003,0,Nova Scotia
+811585,Mar,CA011,0,Nova Scotia
+736598,Apr,CA005,0,British Columbia
+999982,Sept,CA001,0,Ontario
+702041,Sept,CA001,0,Ontario
+226319,Jan,CA015,0,New Brunswick
+987229,Mar,CA004,1,Ontario
+740680,July,CA013,0,British Columbia
+620945,Nov,CA015,0,New Brunswick
+198632,Sept,CA013,0,British Columbia
+984673,Apr,CA012,1,Ontario
+404406,July,CA006,1,Manitoba
+405154,Nov,CA010,1,Alberta
+204662,Dec,CA001,0,Ontario
+532385,May,CA004,1,Ontario
+515816,Oct,CA007,0,New Brunswick
+620499,Aug,CA006,1,Manitoba
+768103,July,CA002,1,Alberta
+765456,Apr,CA011,0,Nova Scotia
+267639,Mar,CA012,1,Ontario
+447213,Oct,CA015,0,New Brunswick
+633310,Nov,CA012,1,Ontario
+740256,Dec,CA002,1,Alberta
+196810,Feb,CA009,0,Ontario
+250823,June,CA005,0,British Columbia
+762019,June,CA008,1,Ontario
+973913,Nov,CA001,0,Ontario
+290251,July,CA016,1,Ontario
+409813,Oct,CA002,1,Alberta
+125515,May,CA008,1,Ontario
+792170,July,CA002,1,Alberta
+208386,Aug,CA015,0,New Brunswick
+485889,Dec,CA015,0,New Brunswick
+204267,Sept,CA014,1,Manitoba
+672091,June,CA012,1,Ontario
+956386,Aug,CA014,1,Manitoba
+670186,Mar,CA006,1,Manitoba
+996261,Nov,CA005,0,British Columbia
+385722,June,CA013,0,British Columbia
+524899,Apr,CA011,0,Nova Scotia
+578239,May,CA006,1,Manitoba
+143531,Dec,CA007,0,New Brunswick
+432163,June,CA011,0,Nova Scotia
+317782,Oct,CA003,0,Nova Scotia
+238369,Nov,CA006,1,Manitoba
+159405,Mar,CA011,0,Nova Scotia
+209627,May,CA016,1,Ontario
+486488,Dec,CA004,1,Ontario
+657777,Jan,CA013,0,British Columbia
+258856,Nov,CA010,1,Alberta
+203462,Nov,CA004,1,Ontario
+872484,Apr,CA010,1,Alberta
+862182,Dec,CA006,1,Manitoba
+240105,Nov,CA002,1,Alberta
+448165,June,CA013,0,British Columbia
+317551,Mar,CA010,1,Alberta
+766708,Nov,CA012,1,Ontario
+353115,July,CA008,1,Ontario
+172735,Mar,CA008,1,Ontario
+856186,Sept,CA001,0,Ontario
+568999,Jan,CA016,1,Ontario
+936843,Mar,CA013,0,British Columbia
+421858,July,CA009,0,Ontario
+649806,May,CA013,0,British Columbia
+643179,Dec,CA007,0,New Brunswick
+766450,Sept,CA002,1,Alberta
+124876,May,CA003,0,Nova Scotia
+951776,Apr,CA001,0,Ontario
+263365,May,CA011,0,Nova Scotia
+695119,Oct,CA005,0,British Columbia
+483433,Sept,CA005,0,British Columbia
+585850,Apr,CA007,0,New Brunswick
+127988,June,CA002,1,Alberta
+783791,Dec,CA001,0,Ontario
+297057,Mar,CA010,1,Alberta
+699092,Dec,CA005,0,British Columbia
+270693,Jan,CA010,1,Alberta
+819810,Aug,CA004,1,Ontario
+208889,Oct,CA015,0,New Brunswick
+129724,Sept,CA001,0,Ontario
+357811,Dec,CA016,1,Ontario
+756363,Feb,CA011,0,Nova Scotia
+994737,May,CA016,1,Ontario
+408997,July,CA006,1,Manitoba
+595853,Feb,CA002,1,Alberta
+474991,July,CA002,1,Alberta
+778282,Oct,CA010,1,Alberta
+225182,Apr,CA007,0,New Brunswick
+228413,May,CA011,0,Nova Scotia
+365361,Apr,CA013,0,British Columbia
+515953,Aug,CA001,0,Ontario
+376910,Apr,CA003,0,Nova Scotia
+799409,Sept,CA014,1,Manitoba
+163574,Nov,CA014,1,Manitoba
+621533,Apr,CA009,0,Ontario
+251872,May,CA013,0,British Columbia
+244903,Dec,CA011,0,Nova Scotia
+744893,May,CA004,1,Ontario
+623959,May,CA008,1,Ontario
+439828,Nov,CA003,0,Nova Scotia
+656515,July,CA016,1,Ontario
+383106,Apr,CA016,1,Ontario
+719752,Jan,CA006,1,Manitoba
+996261,May,CA007,0,New Brunswick
+967634,Nov,CA001,0,Ontario
+316924,July,CA005,0,British Columbia
+667487,Nov,CA003,0,Nova Scotia
+472404,May,CA016,1,Ontario
+192265,Oct,CA004,1,Ontario
+867906,Apr,CA015,0,New Brunswick
+138114,Jan,CA002,1,Alberta
+429683,July,CA001,0,Ontario
+665069,Mar,CA015,0,New Brunswick
+123717,Oct,CA006,1,Manitoba
+377977,Mar,CA008,1,Ontario
+390742,Oct,CA001,0,Ontario
+507339,Jan,CA003,0,Nova Scotia
+491307,Nov,CA003,0,Nova Scotia
+709821,Feb,CA011,0,Nova Scotia
+474604,Mar,CA001,0,Ontario
+970873,May,CA012,1,Ontario
+826432,July,CA010,1,Alberta
+151432,Jan,CA006,1,Manitoba
+533843,July,CA002,1,Alberta
+615754,Jan,CA002,1,Alberta
+244791,Dec,CA007,0,New Brunswick
+352787,Jan,CA004,1,Ontario
+131869,Nov,CA015,0,New Brunswick
+684281,Mar,CA003,0,Nova Scotia
+387787,July,CA002,1,Alberta
+847774,May,CA002,1,Alberta
+898066,Nov,CA003,0,Nova Scotia
+144915,Nov,CA016,1,Ontario
+930056,Feb,CA008,1,Ontario
+282104,June,CA014,1,Manitoba
+411391,Sept,CA006,1,Manitoba
+886716,Mar,CA003,0,Nova Scotia
+316128,Mar,CA015,0,New Brunswick
+271222,July,CA013,0,British Columbia
+857502,Dec,CA012,1,Ontario
+498138,June,CA010,1,Alberta
+348664,Feb,CA005,0,British Columbia
+611615,Mar,CA014,1,Manitoba
+794579,Aug,CA016,1,Ontario
+396970,July,CA016,1,Ontario
+136715,Aug,CA008,1,Ontario
+507071,May,CA016,1,Ontario
+406676,June,CA004,1,Ontario
+957191,Aug,CA012,1,Ontario
+949030,Mar,CA006,1,Manitoba
+292158,Apr,CA014,1,Manitoba
+488931,Aug,CA001,0,Ontario
+681266,May,CA003,0,Nova Scotia
+834860,Feb,CA016,1,Ontario
+459753,June,CA002,1,Alberta
+552682,Nov,CA005,0,British Columbia
+240635,Sept,CA015,0,New Brunswick
+536161,Apr,CA010,1,Alberta
+116597,Nov,CA005,0,British Columbia
+804053,Feb,CA007,0,New Brunswick
+341834,Jan,CA010,1,Alberta
+464166,Sept,CA004,1,Ontario
+622633,Sept,CA012,1,Ontario
+208708,May,CA011,0,Nova Scotia
+627350,May,CA009,0,Ontario
+144503,Mar,CA013,0,British Columbia
+503643,July,CA009,0,Ontario
+437672,Sept,CA008,1,Ontario
+923733,June,CA014,1,Manitoba
+582834,Aug,CA013,0,British Columbia
+816906,Aug,CA015,0,New Brunswick
+224949,Nov,CA002,1,Alberta
+299747,Oct,CA012,1,Ontario
+491677,Aug,CA009,0,Ontario
+979630,Nov,CA014,1,Manitoba
+636596,Dec,CA011,0,Nova Scotia
+393867,Nov,CA008,1,Ontario
+970780,Nov,CA009,0,Ontario
+729717,Sept,CA010,1,Alberta
+395177,Sept,CA003,0,Nova Scotia
+800970,Oct,CA003,0,Nova Scotia
+109154,May,CA006,1,Manitoba
+869812,Dec,CA016,1,Ontario
+902155,Dec,CA011,0,Nova Scotia
+244272,Oct,CA015,0,New Brunswick
+554458,July,CA006,1,Manitoba
+867053,Mar,CA004,1,Ontario
+220874,Apr,CA006,1,Manitoba
+445931,Nov,CA010,1,Alberta
+121660,May,CA011,0,Nova Scotia
+133514,Apr,CA014,1,Manitoba
+616181,June,CA003,0,Nova Scotia
+574146,Mar,CA008,1,Ontario
+668236,July,CA014,1,Manitoba
+215946,Oct,CA016,1,Ontario
+144022,July,CA014,1,Manitoba
+996220,Dec,CA005,0,British Columbia
+843122,Jan,CA002,1,Alberta
+276520,May,CA007,0,New Brunswick
+366014,Aug,CA015,0,New Brunswick
+652512,Apr,CA010,1,Alberta
+137581,Aug,CA016,1,Ontario
+957362,July,CA014,1,Manitoba
+642886,June,CA009,0,Ontario
+399252,Jan,CA002,1,Alberta
+873003,Mar,CA009,0,Ontario
+229204,Nov,CA002,1,Alberta
+330099,Oct,CA007,0,New Brunswick
+682476,Oct,CA003,0,Nova Scotia
+402020,Apr,CA007,0,New Brunswick
+262285,Mar,CA002,1,Alberta
+156345,June,CA009,0,Ontario
+657800,Feb,CA004,1,Ontario
+509955,Aug,CA008,1,Ontario
+267493,Oct,CA001,0,Ontario
+581823,Sept,CA008,1,Ontario
+848603,Aug,CA014,1,Manitoba
+282301,Apr,CA015,0,New Brunswick
+932544,Feb,CA001,0,Ontario
+554471,Aug,CA001,0,Ontario
+396892,Apr,CA011,0,Nova Scotia
+659100,Aug,CA008,1,Ontario
+475133,Dec,CA004,1,Ontario
+893800,Oct,CA010,1,Alberta
+617019,Dec,CA012,1,Ontario
+931329,Apr,CA006,1,Manitoba
+453245,Sept,CA012,1,Ontario
+434374,Nov,CA011,0,Nova Scotia
+139228,Aug,CA003,0,Nova Scotia
+563969,May,CA006,1,Manitoba
+764054,Oct,CA002,1,Alberta
+561577,Sept,CA012,1,Ontario
+535011,Oct,CA012,1,Ontario
+744430,Nov,CA003,0,Nova Scotia
+657887,June,CA011,0,Nova Scotia
+954435,July,CA012,1,Ontario
+648279,Jan,CA006,1,Manitoba
+262547,Apr,CA011,0,Nova Scotia
+673596,Apr,CA004,1,Ontario
+367949,June,CA016,1,Ontario
+658172,Dec,CA012,1,Ontario
+859224,Feb,CA004,1,Ontario
+955930,Sept,CA007,0,New Brunswick
+489939,Nov,CA002,1,Alberta
+438436,June,CA014,1,Manitoba
+925039,Mar,CA012,1,Ontario
+363115,Apr,CA013,0,British Columbia
+198335,Nov,CA009,0,Ontario
+592260,Apr,CA002,1,Alberta
+807660,Aug,CA009,0,Ontario
+486854,July,CA007,0,New Brunswick
+371955,Sept,CA005,0,British Columbia
+156016,Aug,CA007,0,New Brunswick
+121359,Nov,CA013,0,British Columbia
+619652,Nov,CA010,1,Alberta
+702186,Sept,CA006,1,Manitoba
+595174,Mar,CA016,1,Ontario
+944698,Aug,CA005,0,British Columbia
+277892,Aug,CA012,1,Ontario
+632665,Sept,CA016,1,Ontario
+644542,Aug,CA011,0,Nova Scotia
+130819,Mar,CA008,1,Ontario
+523360,Dec,CA012,1,Ontario
+437702,Apr,CA003,0,Nova Scotia
+723506,Aug,CA001,0,Ontario
+625279,Jan,CA015,0,New Brunswick
+212681,Nov,CA012,0,Ontario
+454802,May,CA003,0,Nova Scotia
+907775,Jan,CA013,0,British Columbia
+376281,Sept,CA001,0,Ontario
+221520,Nov,CA006,0,Manitoba
+616778,Oct,CA016,0,Ontario
+857105,Nov,CA010,0,Alberta
+430994,May,CA011,0,Nova Scotia
+638548,Mar,CA005,0,British Columbia
+689462,Aug,CA016,0,Ontario
+294112,Sept,CA002,0,Alberta
+551526,Apr,CA005,0,British Columbia
+721757,May,CA006,0,Manitoba
+475996,Jan,CA003,0,Nova Scotia
+451328,Aug,CA010,0,Alberta
+413499,Nov,CA013,0,British Columbia
+360352,Aug,CA004,0,Ontario
+991546,Oct,CA012,0,Ontario
+267730,Sept,CA002,0,Alberta
+170646,Aug,CA006,0,Manitoba
+369588,Feb,CA014,0,Manitoba
+128698,May,CA016,0,Ontario
+381537,Sept,CA011,0,Nova Scotia
+864261,Apr,CA015,0,New Brunswick
+558701,Oct,CA014,0,Manitoba
+752776,May,CA002,0,Alberta
+283058,Mar,CA002,0,Alberta
+858716,Oct,CA015,0,New Brunswick
+923762,Jan,CA008,0,Ontario
+915846,Feb,CA002,0,Alberta
+204763,Mar,CA003,0,Nova Scotia
+992533,Dec,CA007,0,New Brunswick
+781329,Nov,CA014,0,Manitoba
+889054,Sept,CA001,0,Ontario
+638098,Apr,CA008,0,Ontario
+635543,July,CA014,0,Manitoba
+505158,Dec,CA008,0,Ontario
+129335,Oct,CA013,0,British Columbia
+463076,Aug,CA005,0,British Columbia
+396645,Sept,CA004,0,Ontario
+376669,Dec,CA012,0,Ontario
+424951,July,CA003,0,Nova Scotia
+490931,Oct,CA008,0,Ontario
+334231,Oct,CA009,0,Ontario
+368964,Oct,CA006,0,Manitoba
+148913,Sept,CA003,0,Nova Scotia
+967477,Mar,CA013,0,British Columbia
+920429,Feb,CA016,0,Ontario
+443402,July,CA005,0,British Columbia
+130584,Dec,CA010,0,Alberta
+662931,May,CA003,0,Nova Scotia
+431505,Oct,CA003,0,Nova Scotia
+736320,Nov,CA004,0,Ontario
+483496,Apr,CA014,0,Manitoba
+934440,Feb,CA006,0,Manitoba
+953908,Apr,CA010,0,Alberta
+919182,July,CA007,0,New Brunswick
+543460,Nov,CA005,0,British Columbia
+509910,June,CA012,0,Ontario
+288408,May,CA012,0,Ontario
+841077,Oct,CA014,0,Manitoba
+495647,Dec,CA013,0,British Columbia
+627335,July,CA010,0,Alberta
+408957,Sept,CA001,0,Ontario
+856215,Nov,CA003,0,Nova Scotia
+973162,May,CA009,0,Ontario
+652025,Jan,CA004,0,Ontario
+955831,Nov,CA011,0,Nova Scotia
+666110,Apr,CA008,0,Ontario
+820858,Oct,CA004,0,Ontario
+971181,Apr,CA014,0,Manitoba
+198302,Sept,CA010,0,Alberta
+350251,Mar,CA012,0,Ontario
+285258,Sept,CA015,0,New Brunswick
+715818,Aug,CA003,0,Nova Scotia
+818040,May,CA004,0,Ontario
+150200,July,CA009,0,Ontario
+582095,May,CA009,0,Ontario
+410521,Dec,CA016,0,Ontario
+859236,Aug,CA013,0,British Columbia
+945531,June,CA001,0,Ontario
+882969,June,CA003,0,Nova Scotia
+634669,May,CA007,0,New Brunswick
+909990,Aug,CA015,0,New Brunswick
+411298,Aug,CA011,0,Nova Scotia
+446435,Mar,CA009,0,Ontario
+876541,Nov,CA016,0,Ontario
+866186,Nov,CA004,0,Ontario
+103460,Sept,CA007,0,New Brunswick
+510780,Feb,CA011,0,Nova Scotia
+499395,Aug,CA012,0,Ontario
+870002,Feb,CA016,0,Ontario
+122886,Nov,CA005,0,British Columbia
+990061,June,CA010,0,Alberta
+145230,Feb,CA008,0,Ontario
+390894,Sept,CA007,0,New Brunswick
+973065,Feb,CA015,0,New Brunswick
+689190,Dec,CA004,0,Ontario
+854907,Dec,CA003,0,Nova Scotia
+330224,Mar,CA013,0,British Columbia
+769844,Mar,CA010,0,Alberta
+901943,Jan,CA011,0,Nova Scotia
+385503,Nov,CA012,0,Ontario
+831619,Apr,CA002,0,Alberta
+315302,Nov,CA006,0,Manitoba
+481717,Nov,CA006,0,Manitoba
+650848,Apr,CA011,0,Nova Scotia
+189138,May,CA007,0,New Brunswick
+847610,Aug,CA010,0,Alberta
+107785,Aug,CA005,0,British Columbia
+804451,Apr,CA007,0,New Brunswick
+111250,Aug,CA008,0,Ontario
+480399,July,CA012,0,Ontario
+785089,June,CA009,0,Ontario
+512103,Aug,CA006,0,Manitoba
+489241,Mar,CA008,0,Ontario
+457768,Aug,CA003,0,Nova Scotia
+693383,June,CA011,0,Nova Scotia
+261587,Nov,CA006,0,Manitoba
+595649,June,CA004,0,Ontario
+335495,Sept,CA014,0,Manitoba
+408862,Aug,CA015,0,New Brunswick
+276995,Feb,CA005,0,British Columbia
+910429,May,CA012,0,Ontario
+371879,Dec,CA013,0,British Columbia
+612827,Nov,CA006,0,Manitoba
+552009,Mar,CA010,0,Alberta
+180923,Feb,CA011,0,Nova Scotia
+327123,May,CA003,0,Nova Scotia
+240584,Aug,CA005,0,British Columbia
+719386,July,CA012,0,Ontario
+163943,May,CA001,0,Ontario
+592388,Feb,CA011,0,Nova Scotia
+480461,Apr,CA014,0,Manitoba
+982526,Dec,CA011,0,Nova Scotia
+596265,Jan,CA004,0,Ontario
+405903,Feb,CA012,0,Ontario
+927352,May,CA013,0,British Columbia
+796366,Jan,CA011,0,Nova Scotia
+612570,Jan,CA006,0,Manitoba
+674720,Dec,CA003,0,Nova Scotia
+325939,Mar,CA013,0,British Columbia
+767795,May,CA011,0,Nova Scotia
+515573,Nov,CA007,0,New Brunswick
+794299,Sept,CA013,0,British Columbia
+361217,Aug,CA003,0,Nova Scotia
+291208,Apr,CA009,0,Ontario
+589710,Dec,CA015,0,New Brunswick
+268682,Feb,CA001,0,Ontario
+746549,Nov,CA014,0,Manitoba
+638974,Jan,CA003,0,Nova Scotia
+304015,June,CA007,0,New Brunswick
+451634,Nov,CA005,0,British Columbia
+810339,Aug,CA012,0,Ontario
+967322,Feb,CA009,0,Ontario
+750531,Nov,CA005,0,British Columbia
+494335,May,CA004,0,Ontario
+853693,Sept,CA013,0,British Columbia
+409607,May,CA005,0,British Columbia
+571318,Mar,CA014,0,Manitoba
+236632,Feb,CA010,0,Alberta
+133015,Apr,CA009,0,Ontario
+158154,Feb,CA004,0,Ontario
+844008,Aug,CA006,0,Manitoba
+242879,Aug,CA016,0,Ontario
+223474,Jan,CA012,0,Ontario
+653607,Aug,CA015,0,New Brunswick
+873847,Mar,CA014,0,Manitoba
+102184,Nov,CA003,0,Nova Scotia
+658397,Apr,CA012,0,Ontario
+344759,May,CA001,0,Ontario
+767118,Jan,CA008,0,Ontario
+383938,May,CA010,0,Alberta
+982654,May,CA013,0,British Columbia
+587675,May,CA013,0,British Columbia
+345891,May,CA014,0,Manitoba
+817296,Mar,CA009,0,Ontario
+301668,Dec,CA012,0,Ontario
+787088,Mar,CA002,0,Alberta
+353208,May,CA014,0,Manitoba
+193150,Apr,CA005,0,British Columbia
+738526,Jan,CA007,0,New Brunswick
+355082,Mar,CA013,0,British Columbia
+599833,Apr,CA002,0,Alberta
+506042,June,CA007,0,New Brunswick
+720532,Feb,CA010,0,Alberta
+179458,Jan,CA004,0,Ontario
+163725,Oct,CA015,0,New Brunswick
+830671,Apr,CA016,0,Ontario
+716919,Sept,CA005,0,British Columbia
+283459,July,CA004,0,Ontario
+104596,Dec,CA008,0,Ontario
+682288,Dec,CA004,0,Ontario
+168847,Aug,CA013,0,British Columbia
+166010,Jan,CA014,0,Manitoba
+240238,Sept,CA013,0,British Columbia
+557047,Jan,CA009,0,Ontario
+723801,May,CA011,0,Nova Scotia
+859064,Sept,CA004,0,Ontario
+473687,Sept,CA005,0,British Columbia
+478673,Dec,CA016,0,Ontario
+680916,Apr,CA012,0,Ontario
+705583,Nov,CA016,0,Ontario
+369507,Feb,CA005,0,British Columbia
+959209,Mar,CA013,0,British Columbia
+106548,Nov,CA005,0,British Columbia
+745086,Aug,CA011,0,Nova Scotia
+745132,July,CA007,0,New Brunswick
+738592,Aug,CA004,0,Ontario
+798465,Apr,CA001,0,Ontario
+820098,Jan,CA016,0,Ontario
+984685,Apr,CA005,0,British Columbia
+880427,Apr,CA011,0,Nova Scotia
+867322,Apr,CA007,0,New Brunswick
+754104,Feb,CA011,0,Nova Scotia
+302995,Dec,CA005,0,British Columbia
+508630,Mar,CA010,0,Alberta
+680459,Jan,CA015,0,New Brunswick
+273820,Apr,CA004,0,Ontario
+563721,Aug,CA001,0,Ontario
+531791,June,CA007,0,New Brunswick
+248941,Sept,CA003,0,Nova Scotia
+336407,Jan,CA016,0,Ontario
+832456,May,CA010,0,Alberta
+726107,Feb,CA003,0,Nova Scotia
+911999,May,CA016,0,Ontario
+422278,Nov,CA010,0,Alberta
+403097,July,CA001,0,Ontario
+850415,Sept,CA011,0,Nova Scotia
+963833,Dec,CA002,0,Alberta
+279177,Sept,CA003,0,Nova Scotia
+295359,Jan,CA005,0,British Columbia
+872590,Jan,CA007,0,New Brunswick
+715224,July,CA001,0,Ontario
+778642,July,CA007,0,New Brunswick
+368321,Sept,CA014,0,Manitoba
+455750,Oct,CA013,0,British Columbia
+616500,Apr,CA014,0,Manitoba
+336430,Oct,CA001,0,Ontario
+382090,Nov,CA012,0,Ontario
+242659,Aug,CA001,0,Ontario
+309489,Feb,CA011,0,Nova Scotia
+527907,Jan,CA003,0,Nova Scotia
+728166,Apr,CA007,0,New Brunswick
+775838,Feb,CA005,0,British Columbia
+772170,Oct,CA011,0,Nova Scotia
+660773,Apr,CA011,0,Nova Scotia
+355380,Oct,CA002,0,Alberta
+431705,Apr,CA006,0,Manitoba
+273243,Mar,CA014,0,Manitoba
+399958,July,CA009,0,Ontario
+605805,Feb,CA003,0,Nova Scotia
+144824,Aug,CA013,0,British Columbia
+709594,Apr,CA014,0,Manitoba
+712078,Aug,CA003,0,Nova Scotia
+430831,Jan,CA007,0,New Brunswick
+869956,Apr,CA012,0,Ontario
+815728,Apr,CA006,0,Manitoba
+155994,Sept,CA002,0,Alberta
+675283,Oct,CA015,0,New Brunswick
+550111,Jan,CA003,0,Nova Scotia
+256617,Oct,CA008,0,Ontario
+491763,June,CA007,0,New Brunswick
+730488,Apr,CA008,0,Ontario
+661874,May,CA005,0,British Columbia
+527640,May,CA006,0,Manitoba
+308695,Nov,CA014,0,Manitoba
+900756,Jan,CA008,0,Ontario
+528750,Sept,CA003,0,Nova Scotia
+918118,Sept,CA004,0,Ontario
+382651,Dec,CA008,0,Ontario
+730039,Aug,CA005,0,British Columbia
+571989,Sept,CA002,0,Alberta
+856293,Nov,CA006,0,Manitoba
+595044,Apr,CA014,0,Manitoba
+997303,Mar,CA011,0,Nova Scotia
+186446,Nov,CA009,0,Ontario
+636871,Apr,CA004,0,Ontario
+613090,Feb,CA011,0,Nova Scotia
+764170,Oct,CA002,0,Alberta
+763320,Oct,CA001,0,Ontario
+742687,May,CA009,0,Ontario
+852017,June,CA009,0,Ontario
+165111,Oct,CA005,0,British Columbia
+664397,May,CA015,0,New Brunswick
+310874,Sept,CA005,0,British Columbia
+474165,July,CA003,0,Nova Scotia
+145295,Dec,CA007,0,New Brunswick
+986289,June,CA009,0,Ontario
+905560,Jan,CA006,0,Manitoba
+737217,Sept,CA016,0,Ontario
+966731,July,CA008,0,Ontario
+149995,July,CA014,0,Manitoba
+230530,Sept,CA008,0,Ontario
+232610,July,CA011,0,Nova Scotia
+865280,Nov,CA010,0,Alberta
+766970,May,CA008,0,Ontario
+700147,Jan,CA015,0,New Brunswick
+500282,May,CA011,0,Nova Scotia
+627770,June,CA014,0,Manitoba
+611924,May,CA015,0,New Brunswick
+818903,Oct,CA012,0,Ontario
+249511,Mar,CA011,0,Nova Scotia
+609886,Jan,CA011,0,Nova Scotia
+694079,Mar,CA009,0,Ontario
+203247,Apr,CA009,0,Ontario
+493180,July,CA016,0,Ontario
+155756,Sept,CA010,0,Alberta
+584270,Aug,CA005,0,British Columbia
+359927,Mar,CA012,0,Ontario
+133990,Feb,CA012,0,Ontario
+913879,Apr,CA010,0,Alberta
+858114,Feb,CA014,0,Manitoba
+727415,Mar,CA007,0,New Brunswick
+552682,Mar,CA003,0,Nova Scotia
+324655,Apr,CA004,0,Ontario
+465173,Oct,CA014,0,Manitoba
+936750,Mar,CA011,0,Nova Scotia
+553176,July,CA005,0,British Columbia
+309111,Nov,CA013,0,British Columbia
+907937,Mar,CA004,0,Ontario
+474740,Oct,CA006,0,Manitoba
+334187,Feb,CA003,0,Nova Scotia
+208876,Feb,CA007,0,New Brunswick
+955002,June,CA014,0,Manitoba
+695602,May,CA015,0,New Brunswick
+163550,Sept,CA015,0,New Brunswick
+942669,May,CA010,0,Alberta
+506337,Aug,CA007,0,New Brunswick
+521172,Mar,CA012,0,Ontario
+589756,Apr,CA001,0,Ontario
+778487,Jan,CA005,0,British Columbia
+574260,June,CA008,0,Ontario
+818003,Sept,CA016,0,Ontario
+809742,Mar,CA004,0,Ontario
+114907,Oct,CA008,0,Ontario
+605182,May,CA007,0,New Brunswick
+344160,Jan,CA006,0,Manitoba
+169134,Jan,CA001,0,Ontario
+220876,Apr,CA003,0,Nova Scotia
+215216,Dec,CA011,0,Nova Scotia
+344416,May,CA010,0,Alberta
+864269,Oct,CA010,0,Alberta
+516877,July,CA013,0,British Columbia
+396187,Aug,CA004,0,Ontario
+102974,July,CA003,0,Nova Scotia
+642692,Sept,CA006,0,Manitoba
+317610,Jan,CA016,0,Ontario
+479949,Sept,CA002,0,Alberta
+324472,Jan,CA008,0,Ontario
+107758,June,CA010,0,Alberta
+159495,Mar,CA009,0,Ontario
+668163,Jan,CA008,0,Ontario
+788443,Sept,CA004,0,Ontario
+296266,July,CA002,0,Alberta
+864165,Feb,CA008,0,Ontario
+390394,Oct,CA015,0,New Brunswick
+189932,June,CA004,0,Ontario
+655505,Jan,CA014,0,Manitoba
+534474,Jan,CA008,0,Ontario
+298932,Sept,CA014,0,Manitoba
+504206,Feb,CA012,0,Ontario
+762468,Apr,CA010,0,Alberta
+370610,Aug,CA012,0,Ontario
+529148,June,CA004,0,Ontario
+522321,Feb,CA009,0,Ontario
+419699,Mar,CA011,0,Nova Scotia
+347313,July,CA008,0,Ontario
+537437,Apr,CA005,0,British Columbia
+841511,Mar,CA014,0,Manitoba
+449052,Feb,CA015,0,New Brunswick
+191623,Sept,CA010,0,Alberta
+803424,July,CA016,0,Ontario
+650018,June,CA009,0,Ontario
+963248,Nov,CA015,0,New Brunswick
+357485,Oct,CA010,0,Alberta
+778468,Feb,CA011,0,Nova Scotia
+927678,June,CA006,0,Manitoba
+282324,Feb,CA007,0,New Brunswick
+207874,Nov,CA001,0,Ontario
+555867,July,CA004,0,Ontario
+764306,Apr,CA004,0,Ontario
+420228,Jan,CA006,0,Manitoba
+894143,June,CA012,0,Ontario
+324620,Aug,CA002,0,Alberta
+700995,Apr,CA009,0,Ontario
+175936,Mar,CA015,0,New Brunswick
+896466,Oct,CA011,0,Nova Scotia
+138195,May,CA006,0,Manitoba
+588453,Dec,CA015,0,New Brunswick
+818113,May,CA016,0,Ontario
+712480,May,CA003,0,Nova Scotia
+512937,Oct,CA004,0,Ontario
+748735,Oct,CA011,0,Nova Scotia
+540227,Oct,CA004,0,Ontario
+418296,May,CA016,0,Ontario
+992860,Dec,CA014,0,Manitoba
+765126,Sept,CA008,0,Ontario
+131371,Feb,CA007,0,New Brunswick
+615372,July,CA009,0,Ontario
+574283,July,CA008,0,Ontario
+232871,Aug,CA011,0,Nova Scotia
+163422,Mar,CA011,0,Nova Scotia
+102160,May,CA009,0,Ontario
+363096,June,CA016,0,Ontario
+623872,Aug,CA013,0,British Columbia
+248916,Apr,CA003,0,Nova Scotia
+264200,Aug,CA008,0,Ontario
+685368,Feb,CA008,0,Ontario
+870859,July,CA009,0,Ontario
+509866,Aug,CA014,0,Manitoba
+791294,Oct,CA008,0,Ontario
+269521,May,CA015,0,New Brunswick
+371484,Nov,CA003,0,Nova Scotia
+642781,Sept,CA015,0,New Brunswick
+377415,Aug,CA012,0,Ontario
+868390,Jan,CA004,0,Ontario
+306471,May,CA008,0,Ontario
+877075,Feb,CA001,0,Ontario
+663840,Oct,CA011,0,Nova Scotia
+424659,Aug,CA005,0,British Columbia
+405551,Sept,CA001,0,Ontario
+501091,July,CA016,0,Ontario
+779227,Oct,CA009,0,Ontario
+320994,Feb,CA015,0,New Brunswick
+351791,Sept,CA015,0,New Brunswick
+114141,Apr,CA011,0,Nova Scotia
+569952,May,CA010,0,Alberta
+133299,Dec,CA011,0,Nova Scotia
+573260,Dec,CA005,0,British Columbia
+890359,Aug,CA003,0,Nova Scotia
+322741,Mar,CA014,0,Manitoba
+920088,Mar,CA016,0,Ontario
+838623,July,CA008,0,Ontario
+614654,Feb,CA009,0,Ontario
+551540,Mar,CA004,0,Ontario
+379169,Mar,CA005,0,British Columbia
+218100,Feb,CA001,0,Ontario
+344924,June,CA008,0,Ontario
+868204,Dec,CA016,0,Ontario
+112430,June,CA011,0,Nova Scotia
+387128,Dec,CA015,0,New Brunswick
+744270,Mar,CA008,0,Ontario
+685452,Dec,CA010,0,Alberta
+377995,Dec,CA009,0,Ontario
+521480,Apr,CA008,0,Ontario
+873408,Apr,CA002,0,Alberta
+226160,Apr,CA005,0,British Columbia
+728934,Jan,CA009,0,Ontario
+836408,June,CA016,0,Ontario
+289901,Apr,CA004,0,Ontario
+216735,Dec,CA010,0,Alberta
+966009,Feb,CA015,0,New Brunswick
+116547,Jan,CA005,0,British Columbia
+197337,July,CA003,0,Nova Scotia
+191386,May,CA015,0,New Brunswick
+335303,Apr,CA013,0,British Columbia
+940462,Feb,CA010,0,Alberta
+752657,Nov,CA001,0,Ontario
+121469,June,CA002,0,Alberta
+596238,Dec,CA003,0,Nova Scotia
+771501,June,CA014,0,Manitoba
+663219,Oct,CA012,0,Ontario
+419119,Nov,CA011,0,Nova Scotia
+995841,Jan,CA009,0,Ontario
+650569,July,CA004,0,Ontario
+576835,Nov,CA007,0,New Brunswick
+947897,Aug,CA012,0,Ontario
+216093,Nov,CA013,0,British Columbia
+166739,Sept,CA010,0,Alberta
+356034,Mar,CA016,0,Ontario
+442166,Sept,CA014,0,Manitoba
+447937,June,CA008,0,Ontario
+417047,Jan,CA009,0,Ontario
+335470,Sept,CA012,0,Ontario
+875328,Nov,CA016,0,Ontario
+834851,Mar,CA007,0,New Brunswick
+587747,Nov,CA010,0,Alberta
+829055,Sept,CA016,0,Ontario
+435224,Oct,CA010,0,Alberta
+631385,May,CA010,0,Alberta
+583680,Feb,CA016,0,Ontario
+758137,Mar,CA015,0,New Brunswick
+863285,Feb,CA009,0,Ontario
+448764,July,CA003,0,Nova Scotia
+895903,June,CA002,0,Alberta
+293123,Jan,CA007,0,New Brunswick
+271876,July,CA013,0,British Columbia
+806388,Feb,CA012,0,Ontario
+643802,Jan,CA005,0,British Columbia
+524000,Feb,CA015,0,New Brunswick
+335048,Apr,CA010,0,Alberta
+678894,Nov,CA011,0,Nova Scotia
+348398,June,CA004,0,Ontario
+725512,May,CA002,0,Alberta
+436958,Aug,CA016,0,Ontario
+205918,July,CA004,0,Ontario
+969167,Dec,CA016,0,Ontario
+870503,May,CA007,0,New Brunswick
+762008,Mar,CA015,0,New Brunswick
+492874,Oct,CA011,0,Nova Scotia
+684206,Apr,CA006,0,Manitoba
+252413,Mar,CA005,0,British Columbia
+372846,Sept,CA010,0,Alberta
+215978,Nov,CA012,0,Ontario
+995139,Dec,CA007,0,New Brunswick
+268369,May,CA014,0,Manitoba
+918397,Mar,CA009,0,Ontario
+833007,June,CA011,0,Nova Scotia
+946841,Feb,CA015,0,New Brunswick
+597881,Nov,CA016,0,Ontario
+190500,Mar,CA005,0,British Columbia
+584869,Dec,CA001,0,Ontario
+732041,June,CA011,0,Nova Scotia
+846596,Apr,CA004,0,Ontario
+813192,Apr,CA016,0,Ontario
+391030,Apr,CA010,0,Alberta
+781117,Mar,CA004,0,Ontario
+699477,Dec,CA009,0,Ontario
+296560,Nov,CA003,0,Nova Scotia
+789992,Sept,CA009,0,Ontario
+229565,Dec,CA008,0,Ontario
+880838,Feb,CA005,0,British Columbia
+765446,Dec,CA015,0,New Brunswick
+262382,Oct,CA007,0,New Brunswick
+925848,July,CA005,0,British Columbia
+776138,May,CA012,0,Ontario
+772996,Apr,CA008,0,Ontario
+307680,May,CA006,0,Manitoba
+647908,Sept,CA006,0,Manitoba
+200908,Dec,CA005,0,British Columbia
+250629,Apr,CA008,0,Ontario
+253428,Sept,CA015,0,New Brunswick
+287314,Aug,CA008,0,Ontario
+153328,Feb,CA003,0,Nova Scotia
+650834,Apr,CA014,0,Manitoba
+150211,May,CA011,0,Nova Scotia
+525190,Jan,CA011,0,Nova Scotia
+339048,Mar,CA009,0,Ontario
+410415,Apr,CA016,0,Ontario
+868039,Dec,CA002,0,Alberta
+537890,May,CA008,0,Ontario
+866577,Mar,CA002,0,Alberta
+305219,Jan,CA014,0,Manitoba
+426497,Dec,CA011,0,Nova Scotia
+820911,Nov,CA006,0,Manitoba
+934703,Nov,CA016,0,Ontario
+381054,June,CA002,0,Alberta
+626914,Sept,CA009,0,Ontario
+363074,Aug,CA002,0,Alberta
+634483,Sept,CA012,0,Ontario
+774425,Sept,CA012,0,Ontario
+860797,May,CA003,0,Nova Scotia
+969606,July,CA003,0,Nova Scotia
+372202,Apr,CA001,0,Ontario
+100380,May,CA011,0,Nova Scotia
+584498,June,CA004,0,Ontario
+879929,Feb,CA011,0,Nova Scotia
+935473,May,CA011,0,Nova Scotia
+213969,June,CA004,0,Ontario
+250821,Mar,CA005,0,British Columbia
+723124,May,CA008,0,Ontario
+909256,Jan,CA008,0,Ontario
+392078,Dec,CA015,0,New Brunswick
+520247,Sept,CA004,0,Ontario
+164335,Apr,CA016,0,Ontario
+726867,Aug,CA016,0,Ontario
+407104,Jan,CA013,0,British Columbia
+670661,Apr,CA013,0,British Columbia
+977598,June,CA015,0,New Brunswick
+908232,Dec,CA008,0,Ontario
+855012,June,CA007,0,New Brunswick
+813470,Sept,CA006,0,Manitoba
+413680,Mar,CA008,0,Ontario
+565295,Feb,CA013,0,British Columbia
+646623,Oct,CA003,0,Nova Scotia
+244499,Apr,CA008,0,Ontario
+508795,Feb,CA006,0,Manitoba
+105908,Mar,CA011,0,Nova Scotia
+413705,Sept,CA016,0,Ontario
+109654,Oct,CA006,0,Manitoba
+592806,Dec,CA015,0,New Brunswick
+147640,Oct,CA009,0,Ontario
+764064,Oct,CA008,0,Ontario
+843928,Nov,CA002,0,Alberta
+297630,Jan,CA005,0,British Columbia
+273301,Nov,CA012,0,Ontario
+793200,Feb,CA013,0,British Columbia
+663100,Jan,CA016,0,Ontario
+350328,Apr,CA011,0,Nova Scotia
+640662,Feb,CA003,0,Nova Scotia
+140321,Jan,CA015,0,New Brunswick
+294069,July,CA014,0,Manitoba
+967916,Nov,CA002,0,Alberta
+872512,Apr,CA005,0,British Columbia
+682056,Dec,CA013,0,British Columbia
+393713,June,CA008,0,Ontario
+360179,Nov,CA007,0,New Brunswick
+482238,Nov,CA005,0,British Columbia
+897109,June,CA002,0,Alberta
+780737,Feb,CA004,0,Ontario
+753010,May,CA015,0,New Brunswick
+184974,Oct,CA012,0,Ontario
+580790,May,CA015,0,New Brunswick
+545059,Jan,CA001,0,Ontario
+793794,Aug,CA015,0,New Brunswick
+222929,Aug,CA002,0,Alberta
+214776,Dec,CA005,0,British Columbia
+139622,June,CA013,0,British Columbia
+143514,Nov,CA001,0,Ontario
+871577,May,CA001,0,Ontario
+461253,Apr,CA014,0,Manitoba
+931425,Aug,CA014,0,Manitoba
+674970,June,CA012,0,Ontario
+782502,Jan,CA015,0,New Brunswick
+628335,Oct,CA003,0,Nova Scotia
+673020,Dec,CA005,0,British Columbia
+682915,Dec,CA011,0,Nova Scotia
+740252,Aug,CA014,0,Manitoba
+832448,Dec,CA009,0,Ontario
+549365,Jan,CA015,0,New Brunswick
+801742,Sept,CA008,0,Ontario
+660631,Aug,CA004,0,Ontario
+268988,Aug,CA012,0,Ontario
+264220,May,CA002,0,Alberta
+539737,Feb,CA011,0,Nova Scotia
+751348,June,CA001,0,Ontario
+545150,Jan,CA006,0,Manitoba
+562100,Mar,CA011,0,Nova Scotia
+583252,Apr,CA013,0,British Columbia
+342847,Aug,CA008,0,Ontario
+411577,Aug,CA002,0,Alberta
+312985,Aug,CA011,0,Nova Scotia
+371593,Jan,CA005,0,British Columbia
+973791,Mar,CA015,0,New Brunswick
+420436,June,CA009,0,Ontario
+294798,July,CA005,0,British Columbia
+922520,Mar,CA003,0,Nova Scotia
+829617,Nov,CA013,0,British Columbia
+351261,Apr,CA002,0,Alberta
+684342,Sept,CA004,0,Ontario
+894550,June,CA016,0,Ontario
+705453,Dec,CA002,0,Alberta
+815294,Feb,CA014,0,Manitoba
+146487,Mar,CA008,0,Ontario
+854020,July,CA013,0,British Columbia
+954677,Nov,CA008,0,Ontario
+526499,June,CA001,0,Ontario
+129335,Nov,CA008,0,Ontario
+237996,June,CA003,0,Nova Scotia
+599569,Dec,CA011,0,Nova Scotia
+586093,July,CA004,0,Ontario
+569750,Sept,CA005,0,British Columbia
+890023,Mar,CA001,0,Ontario
+129161,Aug,CA014,0,Manitoba
+975828,Mar,CA005,0,British Columbia
+906810,Oct,CA015,0,New Brunswick
+120232,July,CA005,0,British Columbia
+824071,May,CA005,0,British Columbia
+645660,Feb,CA005,0,British Columbia
+407552,Aug,CA003,0,Nova Scotia
+926964,Sept,CA012,0,Ontario
+769649,Oct,CA003,0,Nova Scotia
+537321,Aug,CA005,0,British Columbia
+685895,Oct,CA016,0,Ontario
+358872,May,CA013,0,British Columbia
+478044,Aug,CA004,0,Ontario
+271638,Aug,CA001,0,Ontario
+163997,June,CA003,0,Nova Scotia
+315833,July,CA004,0,Ontario
+744673,Dec,CA006,0,Manitoba
+641663,Nov,CA002,0,Alberta
+209048,July,CA001,0,Ontario
+809603,Feb,CA010,0,Alberta
+955668,Apr,CA016,0,Ontario
+562747,Nov,CA004,0,Ontario
+134407,Jan,CA009,0,Ontario
+974994,Aug,CA013,0,British Columbia
+302898,Sept,CA007,0,New Brunswick
+493046,Mar,CA012,0,Ontario
+102177,Jan,CA013,0,British Columbia
+714562,Apr,CA012,0,Ontario
+459057,May,CA008,0,Ontario
+851061,Aug,CA015,0,New Brunswick
+516523,July,CA001,0,Ontario
+423549,Feb,CA009,0,Ontario
+247509,Sept,CA001,0,Ontario
+292315,Nov,CA014,0,Manitoba
+413554,Sept,CA005,0,British Columbia
+598699,Oct,CA009,0,Ontario
+902667,Jan,CA009,0,Ontario
+100467,July,CA012,0,Ontario
+688163,Jan,CA004,0,Ontario
+915443,Aug,CA011,0,Nova Scotia
+288416,May,CA015,0,New Brunswick
+214397,July,CA002,0,Alberta
+657909,Feb,CA003,0,Nova Scotia
+634963,Dec,CA013,0,British Columbia
+830203,Mar,CA011,0,Nova Scotia
+714897,July,CA014,0,Manitoba
+464448,Apr,CA008,0,Ontario
+267166,Nov,CA007,0,New Brunswick
+935030,Mar,CA008,0,Ontario
+386435,Dec,CA016,0,Ontario
+857201,Jan,CA013,0,British Columbia
+551717,June,CA004,0,Ontario
+784171,Feb,CA001,0,Ontario
+467685,Oct,CA004,0,Ontario
+506793,Dec,CA004,0,Ontario
+742734,Nov,CA016,0,Ontario
+986090,July,CA004,0,Ontario
+371581,Sept,CA002,0,Alberta
+612160,Oct,CA012,0,Ontario
+398406,Mar,CA003,0,Nova Scotia
+804936,July,CA016,0,Ontario
+891103,Oct,CA014,0,Manitoba
+261343,July,CA001,0,Ontario
+456511,Feb,CA004,0,Ontario
+331698,Jan,CA013,0,British Columbia
+971685,July,CA008,0,Ontario
+288528,June,CA014,0,Manitoba
+545916,May,CA006,0,Manitoba
+124015,June,CA009,0,Ontario
+290568,Sept,CA001,0,Ontario
+724106,May,CA016,0,Ontario
+584690,July,CA015,0,New Brunswick
+367722,Jan,CA005,0,British Columbia
+337224,June,CA002,0,Alberta
+512313,July,CA014,0,Manitoba
+639844,Dec,CA005,0,British Columbia
+331345,Aug,CA011,0,Nova Scotia
+242418,June,CA013,0,British Columbia
+145425,Oct,CA013,0,British Columbia
+844150,Jan,CA007,0,New Brunswick
+506541,May,CA015,0,New Brunswick
+319157,Jan,CA009,0,Ontario
+917232,July,CA015,0,New Brunswick
+157078,Oct,CA013,0,British Columbia
+959601,May,CA012,0,Ontario
+829694,May,CA009,0,Ontario
+369936,Jan,CA001,0,Ontario
+810961,June,CA001,0,Ontario
+657107,June,CA007,0,New Brunswick
+785198,Feb,CA007,0,New Brunswick
+756542,Jan,CA009,0,Ontario
+643754,June,CA014,0,Manitoba
+422517,June,CA016,0,Ontario
+533412,June,CA010,0,Alberta
+292391,Jan,CA004,0,Ontario
+136022,July,CA010,0,Alberta
+258523,Jan,CA016,0,Ontario
+602740,Feb,CA011,0,Nova Scotia
+666057,Apr,CA008,0,Ontario
+409362,Aug,CA015,0,New Brunswick
+868184,July,CA002,0,Alberta
+382494,Jan,CA014,0,Manitoba
+345389,July,CA001,0,Ontario
+111514,Oct,CA015,0,New Brunswick
+950187,June,CA014,0,Manitoba
+440916,Nov,CA004,0,Ontario
+438754,Feb,CA016,0,Ontario
+987445,Dec,CA002,0,Alberta
+664817,Aug,CA010,0,Alberta
+260378,May,CA004,0,Ontario
+426750,Aug,CA010,0,Alberta
+611358,July,CA014,0,Manitoba
+107074,Mar,CA004,0,Ontario
+340317,Jan,CA003,0,Nova Scotia
+570491,Nov,CA007,0,New Brunswick
+207763,June,CA002,0,Alberta
+123267,May,CA008,0,Ontario
+626579,Dec,CA004,0,Ontario
+789628,Sept,CA014,0,Manitoba
+577531,Mar,CA015,0,New Brunswick
+937834,Dec,CA008,0,Ontario
+909608,July,CA001,0,Ontario
+125291,Sept,CA004,0,Ontario
+649073,Nov,CA004,0,Ontario
+703803,Feb,CA016,0,Ontario
+299638,Sept,CA009,0,Ontario
+535876,Dec,CA010,0,Alberta
+484398,Apr,CA001,0,Ontario
+928803,Oct,CA015,0,New Brunswick
+489212,Aug,CA010,0,Alberta
+202996,July,CA006,0,Manitoba
+364648,June,CA013,0,British Columbia
+383947,July,CA016,0,Ontario
+559016,Oct,CA004,0,Ontario
+995159,Jan,CA005,0,British Columbia
+761137,Dec,CA005,0,British Columbia
+429715,Dec,CA011,0,Nova Scotia
+777486,Mar,CA001,0,Ontario
+650972,Feb,CA009,0,Ontario
+486932,July,CA015,0,New Brunswick
+518464,May,CA015,0,New Brunswick
+672770,July,CA009,0,Ontario
+407867,Apr,CA015,0,New Brunswick
+206975,July,CA015,0,New Brunswick
+258132,Jan,CA016,0,Ontario
+513234,Mar,CA012,0,Ontario
+794096,Oct,CA008,0,Ontario
+968059,Mar,CA009,0,Ontario
+334986,Aug,CA011,0,Nova Scotia
+344092,Nov,CA015,0,New Brunswick
+430606,May,CA014,0,Manitoba
+756847,Feb,CA004,0,Ontario
+918725,Nov,CA003,0,Nova Scotia
+179016,Mar,CA015,0,New Brunswick
+493140,July,CA011,0,Nova Scotia
+554310,Mar,CA004,0,Ontario
+339916,Oct,CA002,0,Alberta
+400180,Jan,CA014,0,Manitoba
+808159,Aug,CA016,0,Ontario
+263989,June,CA010,0,Alberta
+657889,Sept,CA010,0,Alberta
+762980,May,CA005,0,British Columbia
+985980,Oct,CA006,0,Manitoba
+805909,Feb,CA010,0,Alberta
+109362,Dec,CA005,0,British Columbia
+237284,Mar,CA009,0,Ontario
+818736,Sept,CA007,0,New Brunswick
+352029,Dec,CA014,0,Manitoba
+538606,Aug,CA012,0,Ontario
+701147,Dec,CA006,0,Manitoba
+184664,Sept,CA001,0,Ontario
+377804,Mar,CA009,0,Ontario
+453575,July,CA014,0,Manitoba
+304014,Mar,CA007,0,New Brunswick
+795869,Oct,CA007,0,New Brunswick
+504256,Mar,CA015,0,New Brunswick
+463843,Nov,CA009,0,Ontario
+266197,Mar,CA007,0,New Brunswick
+593246,Jan,CA011,0,Nova Scotia
+366229,Aug,CA005,0,British Columbia
+871362,Feb,CA001,0,Ontario
+990913,Feb,CA005,0,British Columbia
+488590,Dec,CA013,0,British Columbia
+471225,Feb,CA006,0,Manitoba
+874211,May,CA005,0,British Columbia
+350369,Feb,CA010,0,Alberta
+213122,Jan,CA003,0,Nova Scotia
+584232,Dec,CA001,0,Ontario
+980879,June,CA003,0,Nova Scotia
+166905,Dec,CA004,0,Ontario
+287163,Jan,CA007,0,New Brunswick
+962841,May,CA009,0,Ontario
+571453,Feb,CA016,0,Ontario
+988281,Oct,CA008,0,Ontario
+643996,June,CA003,0,Nova Scotia
+382045,Apr,CA002,0,Alberta
+420656,Jan,CA004,0,Ontario
+942319,Aug,CA002,0,Alberta
+569962,Jan,CA016,0,Ontario
+222700,Sept,CA016,0,Ontario
+355713,Jan,CA016,0,Ontario
+459552,June,CA015,0,New Brunswick
+352062,Jan,CA003,0,Nova Scotia
+944753,May,CA003,0,Nova Scotia
+909664,May,CA004,0,Ontario
+444358,Nov,CA010,0,Alberta
+467683,July,CA014,0,Manitoba
+960155,Aug,CA003,0,Nova Scotia
+837557,Oct,CA007,0,New Brunswick
+937658,Mar,CA011,0,Nova Scotia
+859647,Mar,CA013,0,British Columbia
+950442,May,CA003,0,Nova Scotia
+557541,Oct,CA010,0,Alberta
+819396,Mar,CA002,0,Alberta
+912169,Dec,CA002,0,Alberta
+962592,Apr,CA006,0,Manitoba
+570759,Jan,CA005,0,British Columbia
+391307,Mar,CA009,0,Ontario
+437517,July,CA005,0,British Columbia
+529637,Jan,CA015,0,New Brunswick
+461738,June,CA008,0,Ontario
+927124,Feb,CA003,0,Nova Scotia
+188323,July,CA016,0,Ontario
+865479,Mar,CA004,0,Ontario
+118893,June,CA001,0,Ontario
+380613,Jan,CA006,0,Manitoba
+641328,Dec,CA015,0,New Brunswick
+264121,Oct,CA009,0,Ontario
+533019,Feb,CA003,0,Nova Scotia
+632270,Feb,CA010,0,Alberta
+888871,Apr,CA005,0,British Columbia
+123979,Oct,CA015,0,New Brunswick
+209496,Nov,CA001,0,Ontario
+495662,Oct,CA016,0,Ontario
+305367,June,CA016,0,Ontario
+881111,Nov,CA001,0,Ontario
+453460,Oct,CA004,0,Ontario
+279918,July,CA012,0,Ontario
+762753,Dec,CA005,0,British Columbia
+129493,Aug,CA010,0,Alberta
+237148,Dec,CA007,0,New Brunswick
+939932,Dec,CA008,0,Ontario
+673440,July,CA007,0,New Brunswick
+494382,Aug,CA009,0,Ontario
+652190,July,CA001,0,Ontario
+823772,Aug,CA009,0,Ontario
+951778,Aug,CA015,0,New Brunswick
+193283,Mar,CA001,0,Ontario
+254975,Dec,CA006,0,Manitoba
+821191,Oct,CA003,0,Nova Scotia
+577767,Oct,CA001,0,Ontario
+810407,Jan,CA013,0,British Columbia
+652592,May,CA009,0,Ontario
+965218,May,CA007,0,New Brunswick
+938725,Dec,CA002,0,Alberta
+779910,Oct,CA010,0,Alberta
+391506,Oct,CA006,0,Manitoba
+255251,May,CA001,0,Ontario
+136303,Feb,CA013,0,British Columbia
+462382,June,CA001,0,Ontario
+538120,Oct,CA009,0,Ontario
+561901,Oct,CA002,0,Alberta
+761733,Nov,CA004,0,Ontario
+688367,July,CA015,0,New Brunswick
+709390,Mar,CA008,0,Ontario
+435345,Dec,CA006,0,Manitoba
+171074,Jan,CA002,0,Alberta
+970150,Nov,CA003,0,Nova Scotia
+352522,Mar,CA015,0,New Brunswick
+382309,Apr,CA007,0,New Brunswick
+367514,Oct,CA004,0,Ontario
+102923,Sept,CA003,0,Nova Scotia
+819532,Sept,CA002,0,Alberta
+747366,Nov,CA009,0,Ontario
+520168,May,CA007,0,New Brunswick
+570924,Dec,CA006,0,Manitoba
+950798,Sept,CA011,0,Nova Scotia
+352846,Mar,CA010,0,Alberta
+914418,July,CA002,0,Alberta
+465831,May,CA013,0,British Columbia
+171506,July,CA006,0,Manitoba
+929001,May,CA016,0,Ontario
+888270,June,CA002,0,Alberta
+644726,Aug,CA011,0,Nova Scotia
+665460,Jan,CA007,0,New Brunswick
+975361,June,CA016,0,Ontario
+919831,Dec,CA013,0,British Columbia
+330488,June,CA004,0,Ontario
+939625,Apr,CA013,0,British Columbia
+177516,Sept,CA001,0,Ontario
+774041,Mar,CA006,0,Manitoba
+900045,Jan,CA013,0,British Columbia
+323908,June,CA014,0,Manitoba
+907806,Apr,CA015,0,New Brunswick
+956023,Sept,CA008,0,Ontario
+424007,Nov,CA004,0,Ontario
+665541,Sept,CA003,0,Nova Scotia
+502106,Dec,CA013,0,British Columbia
+515350,June,CA013,0,British Columbia
+700833,Sept,CA010,0,Alberta
+276979,Aug,CA005,0,British Columbia
+391485,May,CA012,0,Ontario
+199194,Oct,CA015,0,New Brunswick
+982736,June,CA014,0,Manitoba
+536407,June,CA005,0,British Columbia
+957133,Jan,CA005,0,British Columbia
+431042,Aug,CA016,0,Ontario
+389821,Feb,CA010,0,Alberta
+775072,May,CA010,0,Alberta
+340403,May,CA010,0,Alberta
+326564,Sept,CA016,0,Ontario
+950247,Mar,CA005,0,British Columbia
+730774,Mar,CA012,0,Ontario
+233505,Dec,CA015,0,New Brunswick
+327720,July,CA009,0,Ontario
+433210,Aug,CA002,0,Alberta
+696313,Feb,CA014,0,Manitoba
+363008,June,CA007,0,New Brunswick
+965543,Apr,CA007,0,New Brunswick
+974740,Sept,CA014,0,Manitoba
+726726,May,CA015,0,New Brunswick
+246641,Jan,CA008,0,Ontario
+498843,May,CA003,0,Nova Scotia
+858941,Jan,CA005,0,British Columbia
+521094,Nov,CA006,0,Manitoba
+732323,June,CA008,0,Ontario
+913002,Oct,CA004,0,Ontario
+420091,Aug,CA008,0,Ontario
+217749,Nov,CA013,0,British Columbia
+167249,Nov,CA002,0,Alberta
+473625,Oct,CA014,0,Manitoba
+303115,June,CA007,0,New Brunswick
+208398,Oct,CA008,0,Ontario
+359654,Nov,CA010,0,Alberta
+829096,June,CA005,0,British Columbia
+232767,Oct,CA015,0,New Brunswick
+423097,Aug,CA011,0,Nova Scotia
+586818,Mar,CA009,0,Ontario
+913430,Dec,CA008,0,Ontario
+843929,May,CA013,0,British Columbia
+996950,Mar,CA001,0,Ontario
+185217,Oct,CA005,0,British Columbia
+520832,May,CA002,0,Alberta
+785420,Jan,CA010,0,Alberta
+480742,June,CA008,0,Ontario
+572511,Apr,CA009,0,Ontario
+768276,Oct,CA013,0,British Columbia
+126725,Aug,CA007,0,New Brunswick
+473854,May,CA014,0,Manitoba
+435896,July,CA010,0,Alberta
+673614,Jan,CA002,0,Alberta
+860854,Jan,CA016,0,Ontario
+914208,May,CA009,0,Ontario
+198245,Feb,CA004,0,Ontario
+531638,Apr,CA005,0,British Columbia
+725307,May,CA012,0,Ontario
+805511,Feb,CA012,0,Ontario
+587653,July,CA008,0,Ontario
+703929,Apr,CA003,0,Nova Scotia
+428816,Mar,CA003,0,Nova Scotia
+589956,May,CA007,0,New Brunswick
+550112,Mar,CA002,0,Alberta
+154310,Nov,CA003,0,Nova Scotia
+920276,July,CA003,0,Nova Scotia
+825812,Aug,CA002,0,Alberta
+699328,Feb,CA006,0,Manitoba
+317029,Jan,CA012,0,Ontario
+204837,Jan,CA014,0,Manitoba
+222017,Sept,CA006,0,Manitoba
+938080,Nov,CA012,0,Ontario
+565333,Dec,CA003,0,Nova Scotia
+306389,June,CA012,0,Ontario
+861269,Mar,CA012,0,Ontario
+583468,Oct,CA004,0,Ontario
+263326,Aug,CA004,0,Ontario
+662512,June,CA004,0,Ontario
+863510,June,CA001,0,Ontario
+978176,Aug,CA014,0,Manitoba
+303571,Mar,CA006,0,Manitoba
+375318,Dec,CA004,0,Ontario
+128624,Jan,CA012,0,Ontario
+115465,Sept,CA002,0,Alberta
+103852,Apr,CA001,0,Ontario
+541685,Mar,CA015,0,New Brunswick
+515313,Aug,CA007,0,New Brunswick
+496366,Nov,CA005,0,British Columbia
+509543,Sept,CA004,0,Ontario
+702964,Apr,CA002,0,Alberta
+808125,June,CA011,0,Nova Scotia
+273324,Jan,CA006,0,Manitoba
+729311,July,CA012,0,Ontario
+890663,Jan,CA006,0,Manitoba
+418534,Dec,CA010,0,Alberta
+591346,Sept,CA015,0,New Brunswick
+176095,Feb,CA011,0,Nova Scotia
+135838,Oct,CA014,0,Manitoba
+623840,July,CA001,0,Ontario
+165258,Apr,CA007,0,New Brunswick
+193100,May,CA011,0,Nova Scotia
+667621,Sept,CA016,0,Ontario
+846100,Aug,CA008,0,Ontario
+859243,Dec,CA011,0,Nova Scotia
+307855,June,CA009,0,Ontario
+655352,Oct,CA016,0,Ontario
+398877,June,CA016,0,Ontario
+343106,Mar,CA016,0,Ontario
+405934,Jan,CA003,0,Nova Scotia
+301403,July,CA009,0,Ontario
+947206,Jan,CA006,0,Manitoba
+510072,July,CA001,0,Ontario
+600458,May,CA013,0,British Columbia
+320193,June,CA016,0,Ontario
+314808,Oct,CA009,0,Ontario
+776859,June,CA011,0,Nova Scotia
+584355,Mar,CA003,0,Nova Scotia
+788937,Jan,CA011,0,Nova Scotia
+139783,July,CA009,0,Ontario
+503862,Oct,CA010,0,Alberta
+723797,Mar,CA005,0,British Columbia
+470022,Jan,CA002,0,Alberta
+838153,Mar,CA003,0,Nova Scotia
+855296,Oct,CA002,0,Alberta
+853499,Jan,CA007,0,New Brunswick
+190706,Aug,CA015,0,New Brunswick
+935553,Oct,CA014,0,Manitoba
+660758,June,CA006,0,Manitoba
+108868,May,CA001,0,Ontario
+570380,Mar,CA007,0,New Brunswick
+605971,Oct,CA002,0,Alberta
+116038,Oct,CA015,0,New Brunswick
+232589,Dec,CA001,0,Ontario
+344962,Apr,CA002,0,Alberta
+345407,Nov,CA004,0,Ontario
+959513,Aug,CA015,0,New Brunswick
+916943,May,CA015,0,New Brunswick
+742082,Apr,CA011,0,Nova Scotia
+271847,May,CA006,0,Manitoba
+430794,Dec,CA005,0,British Columbia
+947252,May,CA008,0,Ontario
+837970,Oct,CA007,0,New Brunswick
+305673,Aug,CA012,0,Ontario
+662780,May,CA005,0,British Columbia
+928775,June,CA003,0,Nova Scotia
+491429,Oct,CA010,0,Alberta
+451241,Oct,CA004,0,Ontario
+573438,Aug,CA003,0,Nova Scotia
+626347,Apr,CA009,0,Ontario
+234242,Jan,CA015,0,New Brunswick
+516040,Mar,CA014,0,Manitoba
+104059,Feb,CA011,0,Nova Scotia
+659948,May,CA012,0,Ontario
+973963,May,CA005,0,British Columbia
+182109,Apr,CA014,0,Manitoba
+613384,Oct,CA003,0,Nova Scotia
+430578,Apr,CA006,0,Manitoba
+189309,June,CA002,0,Alberta
+258441,July,CA011,0,Nova Scotia
+252879,Nov,CA015,0,New Brunswick
+882365,Sept,CA015,0,New Brunswick
+878079,Oct,CA003,0,Nova Scotia
+828546,Mar,CA014,0,Manitoba
+247536,Sept,CA012,0,Ontario
+952343,Apr,CA006,0,Manitoba
+792863,Apr,CA004,0,Ontario
+110097,Mar,CA013,0,British Columbia
+355359,July,CA004,0,Ontario
+750881,Oct,CA004,0,Ontario
+373739,Sept,CA013,0,British Columbia
+532129,Aug,CA003,0,Nova Scotia
+719700,July,CA012,0,Ontario
+468092,Dec,CA011,0,Nova Scotia
+796945,July,CA009,0,Ontario
+380896,Dec,CA012,0,Ontario
+424299,June,CA002,0,Alberta
+236165,Aug,CA012,0,Ontario
+303470,May,CA010,0,Alberta
+918027,Mar,CA007,0,New Brunswick
+794462,May,CA005,0,British Columbia
+968428,Dec,CA015,0,New Brunswick
+121552,Dec,CA004,0,Ontario
+366276,May,CA013,0,British Columbia
+697553,Oct,CA005,0,British Columbia
+610734,Dec,CA009,0,Ontario
+149737,Feb,CA012,0,Ontario
+541237,Feb,CA004,0,Ontario
+641043,Sept,CA009,0,Ontario
+659008,Oct,CA008,0,Ontario
+127719,Nov,CA002,0,Alberta
+527904,July,CA004,0,Ontario
+966222,Apr,CA015,0,New Brunswick
+845240,June,CA013,0,British Columbia
+181488,Jan,CA005,0,British Columbia
+864325,Dec,CA001,0,Ontario
+863572,May,CA003,0,Nova Scotia
+654308,Dec,CA004,0,Ontario
+486140,Aug,CA012,0,Ontario
+959610,Dec,CA016,0,Ontario
+561414,Oct,CA005,0,British Columbia
+828327,May,CA003,0,Nova Scotia
+656732,June,CA001,0,Ontario
+836265,Mar,CA012,0,Ontario
+863042,Feb,CA011,0,Nova Scotia
+706527,Oct,CA013,0,British Columbia
+863202,Nov,CA015,0,New Brunswick
+717213,Sept,CA016,0,Ontario
+525540,June,CA011,0,Nova Scotia
+458521,Jan,CA006,0,Manitoba
+782946,Mar,CA009,0,Ontario
+868611,Oct,CA008,0,Ontario
+493856,May,CA009,0,Ontario
+723650,Jan,CA009,0,Ontario
+755558,Oct,CA005,0,British Columbia
+128688,Apr,CA007,0,New Brunswick
+152497,May,CA004,0,Ontario
+549702,Dec,CA013,0,British Columbia
+249119,Jan,CA005,0,British Columbia
+876786,Mar,CA016,0,Ontario
+251566,May,CA006,0,Manitoba
+833861,Feb,CA002,0,Alberta
+851038,July,CA005,0,British Columbia
+649248,Jan,CA013,0,British Columbia
+569755,Sept,CA006,0,Manitoba
+484745,Aug,CA003,0,Nova Scotia
+410945,Jan,CA005,0,British Columbia
+381265,Dec,CA001,0,Ontario
+237933,Feb,CA014,0,Manitoba
+710915,Dec,CA015,0,New Brunswick
+122175,Apr,CA012,0,Ontario
+303193,Aug,CA009,0,Ontario
+484636,Feb,CA013,0,British Columbia
+131945,Dec,CA004,0,Ontario
+200684,Oct,CA008,0,Ontario
+465852,Apr,CA015,0,New Brunswick
+264812,Feb,CA015,0,New Brunswick
+913365,Feb,CA014,0,Manitoba
+385370,July,CA001,0,Ontario
+348542,Aug,CA004,0,Ontario
+561069,Sept,CA006,0,Manitoba
+769734,Feb,CA015,0,New Brunswick
+925947,Feb,CA012,0,Ontario
+592013,Sept,CA006,0,Manitoba
+848667,Dec,CA009,0,Ontario
+798742,Mar,CA003,0,Nova Scotia
+553623,Jan,CA002,0,Alberta
+980814,Mar,CA015,0,New Brunswick
+409206,Mar,CA013,0,British Columbia
+461917,Sept,CA010,0,Alberta
+133575,July,CA004,0,Ontario
+796647,Nov,CA002,0,Alberta
+452130,Aug,CA003,0,Nova Scotia
+196699,Feb,CA009,0,Ontario
+161465,Sept,CA016,0,Ontario
+761945,Dec,CA010,0,Alberta
+630208,Oct,CA012,0,Ontario
+540189,Dec,CA015,0,New Brunswick
+876116,Mar,CA010,0,Alberta
+800020,Mar,CA014,0,Manitoba
+629243,Apr,CA010,0,Alberta
+660297,June,CA013,0,British Columbia
+642158,Mar,CA014,0,Manitoba
+229721,Mar,CA011,0,Nova Scotia
+831764,Apr,CA014,0,Manitoba
+755533,Dec,CA001,0,Ontario
+627701,Sept,CA016,0,Ontario
+413625,Aug,CA011,0,Nova Scotia
+867561,May,CA013,0,British Columbia
+461674,Feb,CA002,0,Alberta
+746278,June,CA001,0,Ontario
+394942,Oct,CA015,0,New Brunswick
+765677,Dec,CA004,0,Ontario
+737134,Feb,CA002,0,Alberta
+781819,Aug,CA001,0,Ontario
+272896,Feb,CA007,0,New Brunswick
+200138,Oct,CA011,0,Nova Scotia
+434098,Oct,CA004,0,Ontario
+872819,Jan,CA012,0,Ontario
+316025,Dec,CA015,0,New Brunswick
+267640,July,CA006,0,Manitoba
+986200,Aug,CA011,0,Nova Scotia
+200010,Jan,CA016,0,Ontario
+517668,Dec,CA011,0,Nova Scotia
+785963,Sept,CA006,0,Manitoba
+917906,Nov,CA002,0,Alberta
+795958,Sept,CA005,0,British Columbia
+462356,June,CA010,0,Alberta
+883236,July,CA005,0,British Columbia
+987247,Jan,CA015,0,New Brunswick
+526140,Apr,CA001,0,Ontario
+164053,July,CA008,0,Ontario
+393534,May,CA008,0,Ontario
+573703,Nov,CA012,0,Ontario
+802576,Dec,CA014,0,Manitoba
+840078,Oct,CA006,0,Manitoba
+317243,Apr,CA011,0,Nova Scotia
+397605,June,CA005,0,British Columbia
+814147,Dec,CA004,0,Ontario
+350568,June,CA008,0,Ontario
+894194,May,CA014,0,Manitoba
+325518,Mar,CA006,0,Manitoba
+812752,Aug,CA001,0,Ontario
+629893,Nov,CA010,0,Alberta
+882259,Feb,CA012,0,Ontario
+124316,Sept,CA012,0,Ontario
+199352,June,CA015,0,New Brunswick
+224364,June,CA008,0,Ontario
+108298,Nov,CA012,0,Ontario
+494408,Aug,CA001,0,Ontario
+233355,Sept,CA009,0,Ontario
+469109,Sept,CA015,0,New Brunswick
+301116,Nov,CA008,0,Ontario
+147272,Aug,CA008,0,Ontario
+297807,Apr,CA005,0,British Columbia
+850487,Nov,CA015,0,New Brunswick
+556092,Oct,CA002,0,Alberta
+187548,Dec,CA015,0,New Brunswick
+397172,Jan,CA006,0,Manitoba
+413253,Oct,CA013,0,British Columbia
+881552,May,CA013,0,British Columbia
+378551,Sept,CA001,0,Ontario
+804881,Apr,CA015,0,New Brunswick
+248164,Sept,CA015,0,New Brunswick
+689972,Mar,CA013,0,British Columbia
+739629,Dec,CA003,0,Nova Scotia
+887896,Sept,CA004,0,Ontario
+920253,Sept,CA016,0,Ontario
+777234,June,CA008,0,Ontario
+889148,Aug,CA008,0,Ontario
+235410,Feb,CA008,0,Ontario
+824443,Mar,CA001,0,Ontario
+591702,July,CA003,0,Nova Scotia
+691772,Sept,CA014,0,Manitoba
+721247,May,CA006,0,Manitoba
+412039,Jan,CA007,0,New Brunswick
+505969,Mar,CA003,0,Nova Scotia
+591205,Sept,CA011,0,Nova Scotia
+476019,June,CA004,0,Ontario
+950376,May,CA016,0,Ontario
+994799,Aug,CA015,0,New Brunswick
+143620,Oct,CA009,0,Ontario
+612944,July,CA014,0,Manitoba
+430804,Sept,CA013,0,British Columbia
+532220,Oct,CA006,0,Manitoba
+462844,Nov,CA012,0,Ontario
+303360,May,CA016,0,Ontario
+237322,Dec,CA016,0,Ontario
+659845,Sept,CA015,0,New Brunswick
+530558,Oct,CA002,0,Alberta
+412871,Feb,CA003,0,Nova Scotia
+881146,Mar,CA007,0,New Brunswick
+674030,Aug,CA011,0,Nova Scotia
+663306,Apr,CA006,0,Manitoba
+704398,Sept,CA011,0,Nova Scotia
+369625,July,CA006,0,Manitoba
+183077,Feb,CA012,0,Ontario
+883564,July,CA013,0,British Columbia
+956015,Feb,CA007,0,New Brunswick
+226719,Oct,CA009,0,Ontario
+593690,Oct,CA013,0,British Columbia
+541437,Aug,CA015,0,New Brunswick
+843205,June,CA015,0,New Brunswick
+721484,Sept,CA003,0,Nova Scotia
+243804,Aug,CA008,0,Ontario
+616751,Nov,CA014,0,Manitoba
+132604,Feb,CA013,0,British Columbia
+432607,Nov,CA003,0,Nova Scotia
+697255,Aug,CA010,0,Alberta
+663330,June,CA015,0,New Brunswick
+323918,Nov,CA007,0,New Brunswick
+306411,Oct,CA005,0,British Columbia
+674132,Feb,CA002,0,Alberta
+542946,Jan,CA016,0,Ontario
+510009,Nov,CA008,0,Ontario
+331396,Mar,CA009,0,Ontario
+987024,Sept,CA010,0,Alberta
+600719,Aug,CA013,0,British Columbia
+375109,Dec,CA008,0,Ontario
+269859,Aug,CA010,0,Alberta
+882873,July,CA014,0,Manitoba
+963095,Nov,CA005,0,British Columbia
+431092,May,CA015,0,New Brunswick
+698390,Jan,CA008,0,Ontario
+896352,Aug,CA008,0,Ontario
+643872,June,CA006,0,Manitoba
+990932,Apr,CA007,0,New Brunswick
+551409,Oct,CA012,0,Ontario
+252494,May,CA011,0,Nova Scotia
+411267,Sept,CA007,0,New Brunswick
+570484,Aug,CA002,0,Alberta
+354353,Jan,CA004,0,Ontario
+398550,July,CA014,0,Manitoba
+435487,Feb,CA011,0,Nova Scotia
+446275,Aug,CA001,0,Ontario
+429550,Mar,CA008,0,Ontario
+487900,May,CA014,0,Manitoba
+443218,Jan,CA009,0,Ontario
+190724,May,CA003,0,Nova Scotia
+794378,Apr,CA014,0,Manitoba
+674182,June,CA001,0,Ontario
+260407,Apr,CA016,0,Ontario
+591713,Feb,CA004,0,Ontario
+506304,Feb,CA005,0,British Columbia
+993836,Aug,CA008,0,Ontario
+216840,Dec,CA007,0,New Brunswick
+218618,May,CA002,0,Alberta
+119275,Oct,CA009,0,Ontario
+483845,Aug,CA011,0,Nova Scotia
+213266,Oct,CA009,0,Ontario
+295609,Apr,CA010,0,Alberta
+694103,Apr,CA001,0,Ontario
+314597,Sept,CA007,0,New Brunswick
+165029,May,CA001,0,Ontario
+525230,Aug,CA008,0,Ontario
+113015,Sept,CA005,0,British Columbia
+805026,Aug,CA007,0,New Brunswick
+557819,Mar,CA002,0,Alberta
+750816,Sept,CA012,0,Ontario
+706968,Oct,CA014,0,Manitoba
+558723,Feb,CA003,0,Nova Scotia
+649090,Sept,CA007,0,New Brunswick
+220407,June,CA004,0,Ontario
+458330,June,CA011,0,Nova Scotia
+718520,July,CA003,0,Nova Scotia
+919982,Dec,CA012,0,Ontario
+211949,Oct,CA001,0,Ontario
+875920,Aug,CA006,0,Manitoba
+889974,Feb,CA002,0,Alberta
+890816,Apr,CA010,0,Alberta
+488955,Jan,CA012,0,Ontario
+905320,Sept,CA015,0,New Brunswick
+263689,June,CA011,0,Nova Scotia
+851014,May,CA007,0,New Brunswick
+792884,Oct,CA009,0,Ontario
+650808,Jan,CA016,0,Ontario
+110951,Apr,CA010,0,Alberta
+302907,July,CA003,0,Nova Scotia
+173381,May,CA007,0,New Brunswick
+260233,Oct,CA010,0,Alberta
+647551,Sept,CA007,0,New Brunswick
+840709,Oct,CA002,0,Alberta
+425074,Mar,CA001,0,Ontario
+735152,Apr,CA013,0,British Columbia
+908758,Nov,CA007,0,New Brunswick
+334208,Oct,CA006,0,Manitoba
+591254,Jan,CA016,0,Ontario
+619988,July,CA005,0,British Columbia
+960405,Nov,CA006,0,Manitoba
+371817,Aug,CA015,0,New Brunswick
+194469,Dec,CA009,0,Ontario
+505102,Apr,CA015,0,New Brunswick
+124642,Oct,CA005,0,British Columbia
+208518,Apr,CA007,0,New Brunswick
+278425,Aug,CA001,0,Ontario
+676734,June,CA006,0,Manitoba
+346637,Sept,CA007,0,New Brunswick
+488464,Mar,CA012,0,Ontario
+698530,Dec,CA008,0,Ontario
+467193,Sept,CA006,0,Manitoba
+730304,Mar,CA010,0,Alberta
+572455,Aug,CA001,0,Ontario
+538489,June,CA005,0,British Columbia
+265028,Apr,CA001,0,Ontario
+168674,Feb,CA014,0,Manitoba
+515993,Mar,CA007,0,New Brunswick
+740329,July,CA010,0,Alberta
+723115,Oct,CA005,0,British Columbia
+892995,Feb,CA005,0,British Columbia
+994378,Dec,CA001,0,Ontario
+969287,Mar,CA006,0,Manitoba
+888020,Apr,CA016,0,Ontario
+206099,Nov,CA006,0,Manitoba
+617853,Dec,CA002,0,Alberta
+743284,Jan,CA001,0,Ontario
+229428,July,CA006,0,Manitoba
+985705,Mar,CA006,0,Manitoba
+813351,Aug,CA006,0,Manitoba
+422484,Feb,CA013,0,British Columbia
+722318,Oct,CA015,0,New Brunswick
+509285,Dec,CA001,0,Ontario
+551769,Feb,CA007,0,New Brunswick
+342110,Oct,CA001,0,Ontario
+163991,Feb,CA002,0,Alberta
+589939,Oct,CA004,0,Ontario
+348720,June,CA008,0,Ontario
+340540,Jan,CA007,0,New Brunswick
+364109,June,CA001,0,Ontario
+725617,Jan,CA007,0,New Brunswick
+303252,Jan,CA010,0,Alberta
+968476,July,CA013,0,British Columbia
+600676,Aug,CA006,0,Manitoba
+562403,June,CA011,0,Nova Scotia
+616029,June,CA002,0,Alberta
+890633,Aug,CA012,0,Ontario
+378867,Jan,CA015,0,New Brunswick
+631909,Aug,CA008,0,Ontario
+334406,Feb,CA015,0,New Brunswick
+894826,Mar,CA005,0,British Columbia
+800735,May,CA014,0,Manitoba
+998888,Jan,CA013,0,British Columbia
+994732,Sept,CA016,0,Ontario
+645129,Sept,CA008,0,Ontario
+752312,Apr,CA007,0,New Brunswick
+925043,Sept,CA003,0,Nova Scotia
+206211,Apr,CA016,0,Ontario
+806978,Mar,CA015,0,New Brunswick
+700025,Jan,CA001,0,Ontario
+571720,Apr,CA011,0,Nova Scotia
+585719,Apr,CA013,0,British Columbia
+488582,May,CA006,0,Manitoba
+534635,Feb,CA005,0,British Columbia
+693318,Jan,CA012,0,Ontario
+185963,Nov,CA016,0,Ontario
+898229,Mar,CA009,0,Ontario
+943919,Mar,CA014,0,Manitoba
+621911,July,CA003,0,Nova Scotia
+560996,Dec,CA015,0,New Brunswick
+489572,Aug,CA012,0,Ontario
+845227,May,CA007,0,New Brunswick
+346251,Feb,CA009,0,Ontario
+581444,Jan,CA011,0,Nova Scotia
+310105,Feb,CA002,0,Alberta
+624315,Mar,CA009,0,Ontario
+245615,Sept,CA012,0,Ontario
+689185,Nov,CA004,0,Ontario
+356652,Nov,CA010,0,Alberta
+927521,Aug,CA015,0,New Brunswick
+213544,May,CA008,0,Ontario
+388959,Apr,CA007,0,New Brunswick
+152698,June,CA006,0,Manitoba
+975407,Apr,CA007,0,New Brunswick
+741011,June,CA010,0,Alberta
+180981,Apr,CA001,0,Ontario
+879518,Sept,CA012,0,Ontario
+388464,Sept,CA012,0,Ontario
+707867,Dec,CA003,0,Nova Scotia
+752372,Dec,CA002,0,Alberta
+151867,Dec,CA007,0,New Brunswick
+820605,June,CA005,0,British Columbia
+878375,Oct,CA013,0,British Columbia
+527278,Sept,CA007,0,New Brunswick
+597483,Nov,CA004,0,Ontario
+684204,May,CA007,0,New Brunswick
+235935,Nov,CA014,0,Manitoba
+605917,Feb,CA001,0,Ontario
+430089,May,CA003,0,Nova Scotia
+647604,June,CA016,0,Ontario
+561477,Apr,CA015,0,New Brunswick
+142558,Aug,CA010,0,Alberta
+105314,July,CA016,0,Ontario
+894017,Jan,CA015,0,New Brunswick
+716249,Aug,CA003,0,Nova Scotia
+290410,Oct,CA008,0,Ontario
+695205,July,CA011,0,Nova Scotia
+465182,Aug,CA005,0,British Columbia
+175903,Dec,CA002,0,Alberta
+402592,Sept,CA011,0,Nova Scotia
+613282,Mar,CA003,0,Nova Scotia
+814372,Mar,CA007,0,New Brunswick
+601741,Apr,CA003,0,Nova Scotia
+677600,June,CA016,0,Ontario
+804953,Mar,CA010,0,Alberta
+317123,Apr,CA001,0,Ontario
+290878,Mar,CA013,0,British Columbia
+526116,Feb,CA008,0,Ontario
+827420,Jan,CA006,0,Manitoba
+644075,Nov,CA009,0,Ontario
+132236,Nov,CA005,0,British Columbia
+144624,Mar,CA010,0,Alberta
+325806,Dec,CA015,0,New Brunswick
+866466,Apr,CA002,0,Alberta
+175700,Nov,CA012,0,Ontario
+662161,July,CA003,0,Nova Scotia
+372894,Oct,CA009,0,Ontario
+822742,May,CA012,0,Ontario
+377391,Aug,CA013,0,British Columbia
+461440,Oct,CA008,0,Ontario
+769912,Oct,CA012,0,Ontario
+366103,Aug,CA014,0,Manitoba
+551712,Jan,CA009,0,Ontario
+478171,Nov,CA003,0,Nova Scotia
+806750,Nov,CA007,0,New Brunswick
+329633,Apr,CA003,0,Nova Scotia
+361339,Mar,CA014,0,Manitoba
+500195,Oct,CA010,0,Alberta
+260759,July,CA003,0,Nova Scotia
+402703,Dec,CA016,0,Ontario
+921372,Apr,CA014,0,Manitoba
+413595,June,CA011,0,Nova Scotia
+707145,Mar,CA016,0,Ontario
+652787,June,CA003,0,Nova Scotia
+805580,July,CA001,0,Ontario
+329489,Aug,CA008,0,Ontario
+674177,Oct,CA016,0,Ontario
+714790,Aug,CA002,0,Alberta
+120439,Feb,CA016,0,Ontario
+710232,Feb,CA002,0,Alberta
+455825,July,CA012,0,Ontario
+598481,Aug,CA002,0,Alberta
+889039,Apr,CA005,0,British Columbia
+205800,Feb,CA013,0,British Columbia
+699099,Nov,CA002,0,Alberta
+582397,Feb,CA001,0,Ontario
+446706,Aug,CA012,0,Ontario
+898690,Mar,CA006,0,Manitoba
+999420,June,CA015,0,New Brunswick
+118162,June,CA012,0,Ontario
+586376,May,CA015,0,New Brunswick
+865862,Apr,CA013,0,British Columbia
+320810,July,CA001,0,Ontario
+187383,Feb,CA005,0,Alberta
+436705,Feb,CA002,0,Alberta
+928013,Nov,CA015,0,New Brunswick
+550655,Dec,CA010,0,Alberta
+583288,June,CA006,0,Manitoba
+224347,Sept,CA004,0,Ontario
+673513,July,CA001,0,Ontario
+298495,Feb,CA008,0,Ontario
+681083,Sept,CA001,0,Ontario
+941506,Aug,CA015,0,New Brunswick
+721362,Jan,CA009,0,Ontario
+649683,Aug,CA001,0,Ontario
+356722,Aug,CA006,0,Manitoba
+551538,Apr,CA001,0,Ontario
+546131,Nov,CA005,0,Alberta
+746107,Sept,CA005,0,Alberta
+175928,Oct,CA013,0,Alberta
+161623,Nov,CA011,0,Nova Scotia
+433636,Dec,CA007,0,New Brunswick
+285281,Sept,CA008,0,Ontario
+399500,Nov,CA013,0,Alberta
+249757,June,CA010,0,Alberta
+262853,Feb,CA003,0,Nova Scotia
+527577,Aug,CA016,0,Ontario
+615579,Nov,CA003,0,Nova Scotia
+928657,Apr,CA014,0,Manitoba
+550429,July,CA005,0,Alberta
+641097,Nov,CA010,0,Alberta
+543808,Oct,CA014,0,Manitoba
+859067,May,CA003,0,Nova Scotia
+787862,Dec,CA012,0,Ontario
+538839,Sept,CA004,0,Ontario
+659167,Aug,CA001,0,Ontario
+493424,Feb,CA003,0,Nova Scotia
+947835,Jan,CA007,0,New Brunswick
+823916,Aug,CA001,0,Ontario
+804568,Feb,CA006,0,Manitoba
+105274,Feb,CA002,0,Alberta
+315486,Jan,CA007,0,New Brunswick
+471253,July,CA016,0,Ontario
+671868,Nov,CA003,0,Nova Scotia
+172086,Jan,CA015,0,New Brunswick
+976784,Aug,CA006,0,Manitoba
+721555,Oct,CA015,0,New Brunswick
+513862,Aug,CA001,0,Ontario
+453172,Jan,CA012,0,Ontario
+887642,June,CA010,0,Alberta
+681163,Mar,CA002,0,Alberta
+924425,Sept,CA002,0,Alberta
+335027,Nov,CA014,0,Manitoba
+841230,Mar,CA004,0,Ontario
+329805,Jan,CA016,0,Ontario
+445675,Mar,CA010,0,Alberta
+826309,Aug,CA011,0,Nova Scotia
+612468,July,CA013,0,Alberta
+702786,Jan,CA010,0,Alberta
+421663,Feb,CA013,0,Alberta
+500954,June,CA013,0,Alberta
+400161,Aug,CA013,0,Alberta
+843720,Jan,CA006,0,Manitoba
+850549,Nov,CA011,0,Nova Scotia
+396357,Sept,CA016,0,Ontario
+118106,June,CA015,0,New Brunswick
+634919,Aug,CA014,0,Manitoba
+463800,Sept,CA010,0,Alberta
+609930,Sept,CA007,0,New Brunswick
+894231,Sept,CA012,0,Ontario
+774003,May,CA008,0,Ontario
+832410,Apr,CA014,0,Manitoba
+400457,Apr,CA012,0,Ontario
+935934,Jan,CA012,0,Ontario
+538253,Jan,CA007,0,New Brunswick
+227259,Apr,CA008,0,Ontario
+388160,Aug,CA015,0,New Brunswick
+530734,May,CA015,0,New Brunswick
+967737,Oct,CA007,0,New Brunswick
+949293,Sept,CA014,0,Manitoba
+881988,Apr,CA008,0,Ontario
+652835,June,CA008,0,Ontario
+228568,Dec,CA003,0,Nova Scotia
+966781,Apr,CA012,0,Ontario
+658236,Dec,CA010,0,Alberta
+579996,Feb,CA010,0,Alberta
+155116,Sept,CA001,0,Ontario
+769826,Dec,CA014,0,Manitoba
+287196,Aug,CA015,0,New Brunswick
+765147,Jan,CA005,0,Alberta
+799208,July,CA005,0,Alberta
+820040,Jan,CA012,0,Ontario
+814895,Jan,CA010,0,Alberta
+730151,Aug,CA015,0,New Brunswick
+700049,Nov,CA010,0,Alberta
+919922,Feb,CA005,0,Alberta
+696902,Dec,CA014,0,Manitoba
+312911,Nov,CA002,0,Alberta
+658268,Sept,CA006,0,Manitoba
+569880,Aug,CA010,0,Alberta
+397060,June,CA010,0,Alberta
+412124,Sept,CA011,0,Nova Scotia
+687696,Apr,CA007,0,New Brunswick
+419940,Feb,CA003,0,Nova Scotia
+218567,Aug,CA015,0,New Brunswick
+920457,Dec,CA014,0,Manitoba
+248927,July,CA015,0,New Brunswick
+760406,Nov,CA012,0,Ontario
+719789,Aug,CA001,0,Ontario
+933085,Oct,CA011,0,Nova Scotia
+464200,Nov,CA003,0,Nova Scotia
+515428,Jan,CA004,0,Ontario
+297611,Jan,CA010,0,Alberta
+403128,Dec,CA009,0,Ontario
+576193,Nov,CA009,0,Ontario
+450226,Aug,CA011,0,Nova Scotia
+698350,June,CA005,0,Alberta
+512286,June,CA012,0,Ontario
+580046,Jan,CA009,0,Ontario
+676718,Feb,CA003,0,Nova Scotia
+352167,July,CA007,0,New Brunswick
+402051,Apr,CA005,0,Alberta
+618652,Jan,CA007,0,New Brunswick
+980461,July,CA005,0,Alberta
+774696,Nov,CA016,0,Ontario
+288454,Dec,CA013,0,Alberta
+512209,Mar,CA006,0,Manitoba
+298670,Apr,CA015,0,New Brunswick
+884364,July,CA008,0,Ontario
+928973,Apr,CA001,0,Ontario
+548889,July,CA015,0,New Brunswick
+467289,Mar,CA006,0,Manitoba
+601100,Jan,CA012,0,Ontario
+630551,June,CA006,0,Manitoba
+458221,Aug,CA004,0,Ontario
+930456,Dec,CA009,0,Ontario
+398138,July,CA003,0,Nova Scotia
+309183,Mar,CA015,0,New Brunswick
+467217,June,CA001,0,Ontario
+932442,June,CA013,0,Alberta
